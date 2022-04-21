@@ -1,0 +1,5 @@
+- NaturalEarth 1:110m from https://www.naturalearthdata.com/downloads/
+
+- converted to SpatialLite format ( https://gdal.org/drivers/vector/sqlite.html )
+
+Author:       Jeff McKenna, GatewayGeo, info@gatewaygeomatics.com

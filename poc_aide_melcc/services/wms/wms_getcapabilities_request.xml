@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE WMT_MS_Capabilities SYSTEM "http://schemas.opengis.net/wms/1.1.1/WMS_MS_Capabilities.dtd"
+ [
+ <!ELEMENT VendorSpecificCapabilities EMPTY>
+ ]>  <!-- end of DOCTYPE declaration -->
+
+<WMT_MS_Capabilities version="1.1.1">
+
+<!-- MapServer version 7.7.0-dev (MS4W 4.0.5) OUTPUT=PNG OUTPUT=JPEG OUTPUT=KML SUPPORTS=PROJ SUPPORTS=AGG SUPPORTS=FREETYPE SUPPORTS=CAIRO SUPPORTS=SVG_SYMBOLS SUPPORTS=SVGCAIRO SUPPORTS=ICONV SUPPORTS=FRIBIDI SUPPORTS=WMS_SERVER SUPPORTS=WMS_CLIENT SUPPORTS=WFS_SERVER SUPPORTS=WFS_CLIENT SUPPORTS=WCS_SERVER SUPPORTS=SOS_SERVER SUPPORTS=FASTCGI SUPPORTS=THREADS SUPPORTS=GEOS SUPPORTS=POINT_Z_M SUPPORTS=PBF INPUT=JPEG INPUT=POSTGIS INPUT=OGR INPUT=GDAL INPUT=SHAPEFILE -->
+
+<Service>
+  <Name>OGC:WMS</Name>
+  <Title>WMS Service For AIDE</Title>
+  <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/>
+  <ContactInformation>
+  </ContactInformation>
+</Service>
+
+<Capability>
+  <Request>
+    <GetCapabilities>
+      <Format>application/vnd.ogc.wms_xml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetCapabilities>
+    <GetMap>
+      <Format>image/jpeg</Format>
+      <Format>image/png</Format>
+      <Format>image/png; mode=8bit</Format>
+      <Format>image/vnd.jpeg-png</Format>
+      <Format>image/vnd.jpeg-png8</Format>
+      <Format>application/x-pdf</Format>
+      <Format>image/svg+xml</Format>
+      <Format>image/tiff</Format>
+      <Format>application/vnd.google-earth.kml+xml</Format>
+      <Format>application/vnd.google-earth.kmz</Format>
+      <Format>application/x-protobuf</Format>
+      <Format>application/json</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetMap>
+    <GetFeatureInfo>
+      <Format>text/plain</Format>
+      <Format>application/vnd.ogc.gml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetFeatureInfo>
+    <DescribeLayer>
+      <Format>text/xml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Post>
+        </HTTP>
+      </DCPType>
+    </DescribeLayer>
+    <GetLegendGraphic>
+      <Format>image/jpeg</Format>
+      <Format>image/png</Format>
+      <Format>image/png; mode=8bit</Format>
+      <Format>image/vnd.jpeg-png</Format>
+      <Format>image/vnd.jpeg-png8</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetLegendGraphic>
+    <GetStyles>
+      <Format>text/xml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetStyles>
+  </Request>
+  <Exception>
+    <Format>application/vnd.ogc.se_xml</Format>
+    <Format>application/vnd.ogc.se_inimage</Format>
+    <Format>application/vnd.ogc.se_blank</Format>
+  </Exception>
+  <VendorSpecificCapabilities />
+  <UserDefinedSymbolization SupportSLD="1" UserLayer="0" UserStyle="1" RemoteWFS="0"/>
+  <Layer>
+    <Name>MS</Name>
+    <Title>WMS Service For AIDE</Title>
+    <Abstract>MS</Abstract>
+    <SRS>EPSG:4326</SRS>
+    <SRS>EPSG:3857</SRS>
+    <LatLonBoundingBox minx="-140" miny="40" maxx="-20" maxy="85" />
+    <BoundingBox SRS="EPSG:4326"
+                minx="-140" miny="40" maxx="-20" maxy="85" />
+    <Layer queryable="0" opaque="0" cascaded="0">
+        <Name>province</Name>
+        <Title>province</Title>
+        <SRS>EPSG:4326</SRS>
+        <LatLonBoundingBox minx="-141.003" miny="41.9715" maxx="-52.5437" maxy="83.1481" />
+        <BoundingBox SRS="EPSG:4326"
+                    minx="-141.003" miny="41.9715" maxx="-52.5437" maxy="83.1481" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;request=GetMetadata&amp;layer=province"/>
+        </MetadataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="86" height="23">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&amp;version=1.1.1&amp;service=WMS&amp;request=GetLegendGraphic&amp;layer=province&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+    </Layer>
+  </Layer>
+</Capability>
+</WMT_MS_Capabilities>

@@ -1,0 +1,63 @@
+MAP
+  CONFIG "MS_ERRORFILE" "/ms4w/tmp/ms_error.txt"
+  DEBUG 5
+  CONFIG "CPL_DEBUG" "ON"
+  CONFIG "CPL_TIMESTAMP" "ON"
+  CONFIG "CPL_DEBUG" "ON"
+  CONFIG "PROJ_DEBUG" "ON"
+
+  IMAGETYPE      JPEG
+  EXTENT        200 -900 600 300
+  SIZE           440 440
+  SHAPEPATH      "."
+  IMAGECOLOR     255 255 255
+
+  WEB
+    IMAGEPATH "/ms4w/tmp/ms_tmp/"
+    IMAGEURL "/ms_tmp/"
+    METADATA
+        "wms_title" "WMS Service For AIDE"
+        # "wms_rootlayer_name" "WMS SERVICE FOR AIDE"
+        "wms_onlineresource" "http://127.0.0.1:8787/wms?"
+        "wms_srs" "EPSG:4326 EPSG:3857"
+        "ows_enable_request" "GetCapabilities GetMap GetFeatureInfo !GetLegendGraphic"
+        "wms_enable_request" "GetCapabilities GetMap GetFeatureInfo !GetLegendGraphic"
+    END
+  END
+
+  PROJECTION
+    "init=epsg:4326"
+  END
+
+  LAYER # MODIS raster layer begins here
+    EXTENT       0 -880 880 0
+    NAME         "imagestatic"
+    DATA         "2018-Boucherville-13313005-13427550-1_tile.jpg"
+    STATUS       ON
+    TYPE         RASTER
+    PROCESSING   "BANDS=1,2,3"
+    OFFSITE      71 74 65
+  END # MODIS raster layer ends here  
+
+  LAYER
+    DEBUG ON
+    NAME "2018-Boucherville-13313005-13427550-1_tile"
+    # DATA "2018-Boucherville-13313005-13427550-1_tile.jpg"
+
+    CONNECTIONTYPE OGR
+    CONNECTION "2018-Boucherville-13313005-13427550-1_tile.geojson"
+    DATA "2018-Boucherville-13313005-13427550-1_tile"
+
+    TYPE POLYGON
+    STATUS ON
+    CLASS
+      NAME "tiles"
+      STYLE
+        # COLOR 200 200 200
+        OUTLINECOLOR 200 50 50
+        WIDTH 0.5
+      END #style
+    END #class
+  END
+
+END

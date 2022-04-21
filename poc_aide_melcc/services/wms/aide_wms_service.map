@@ -1,0 +1,64 @@
+# Test WMS Capabilities http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
+
+MAP
+  # NAME "WMS_SERVICE_FOR_AIDE"
+  CONFIG "MS_ERRORFILE" "/ms4w/tmp/ms_error.txt"
+  CONFIG "CPL_DEBUG" "ON"
+  CONFIG "CPL_TIMESTAMP" "ON"
+  CONFIG "PROJ_DEBUG" "ON"
+  CONFIG "ON_MISSING_DATA" "LOG"
+  DEBUG 50
+  STATUS ON
+
+  # IMAGETYPE gif
+  IMAGETYPE "JPEG"
+  # EXTENT 0 -882 880 0
+  EXTENT -140 40 -20 85
+  # SIZE 400 400
+  SIZE 256 256
+  SHAPEPATH "./data"
+  IMAGECOLOR 255 255 255
+
+  WEB
+      IMAGEPATH "/ms4w/tmp/ms_tmp/"
+      IMAGEURL "/ms_tmp/"
+      METADATA
+          "wms_title" "WMS Service For AIDE"
+          # "wms_rootlayer_name" "WMS SERVICE FOR AIDE"
+          "wms_onlineresource" "http://127.0.0.1:8787/wms?"
+          "wms_srs" "EPSG:4326 EPSG:3857"
+          "ows_enable_request" "GetCapabilities GetMap GetFeatureInfo !GetLegendGraphic"
+          "wms_enable_request" "GetCapabilities GetMap GetFeatureInfo !GetLegendGraphic"
+      END
+  END
+  
+	PROJECTION
+		"init=epsg:4326"
+	END
+
+  LAYER
+      DEBUG ON
+
+      NAME "province"
+      TYPE POLYGON
+      DATA "prov/province"
+      STATUS ON
+      METADATA
+          "wms_title" "province"
+          "wms_srs" "EPSG:4326"
+      END
+      PROJECTION
+          "init=epsg:4326"
+      END
+      CLASSITEM "NAME"
+      CLASS
+          NAME "province"
+          EXPRESSION "Quebec"
+          STYLE
+              WIDTH 1
+              OUTLINECOLOR 0 0 0
+              COLOR 255 0 0
+          END
+      END
+  END
+END
