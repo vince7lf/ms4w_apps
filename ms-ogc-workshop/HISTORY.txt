@@ -1,0 +1,96 @@
+
+$Id: HISTORY.txt,v 1.32 2010-02-03 17:45:53 tkralidi Exp $
+
+MapServer OGC Web Services Workshop Revision History
+====================================================
+
+This is a human-readable revision history which will attempt to document required changes for users to migrate from one version of MapServer to the next.  Developers are strongly encouraged to document their changes and their impacts on the users here (please add the most recent changes to the top of the list).
+
+For a complete change history, please see the CVS log comments.
+
+Current Version (HEAD):
+----------------------------
+- update html templates for MapServer 5.4 changes
+- update links to MapServer website according to new structure
+- add .qix for data/obs.shp data/rivers.shp
+- MapServer RFC56 changes
+- add foss4g2009 to data/mums.gml
+- add CONFIG keyword to service/config.map
+- add foss4g2010 to data/mums.gml
+- add AuthorityURL and Identifier support to service/config.map
+
+
+Version 1.0.10 (2008-09-10):
+----------------------------
+
+- Add BBOX element to the GetCoverage  call in the main index.html
+- Add ./sos/util/proxy.php to handle AJAX-y requests out of local domain
+- update ./sos/DescribeSensor.xml (use sos:procedure instead of sos:SensorId)
+- update ./sos/index.html to use proxy
+- add more WMS global layer examples
+
+Version 1.0.9 (2008-03-17)
+------------------------------
+- few modification to prepare the worksop for osgeo4w installation
+- added foss4g2007 evaluations to doc/
+- added initial SOS examples in ./sos/ and ./data/obs
+
+Version 1.0.8 (2007-11-14)
+------------------------------
+- changed various demo_init.html files to adjust to rfc31
+
+
+Version 1.0.7 (2007-08-24)
+------------------------------
+
+- added website pointer to index.html
+- changed to php_mapscript.dll pointer in all PHP scripts
+- added GetLegendGraphic with SLD example and change to pointer to WxS mapscript PHP file
+- added data to data/mums.gml
+- updated client/webservices/gazetteer.php to geonames.org web service
+
+
+Version 1.0.6 (2006-10-16)
+------------------------------
+- added "gml_include_items" "all" to service/config.map for raster GML query output
+- fixed all PHP docs to point to php_mapscript_4.10.0
+
+
+Version 1.0.5 (2006-10-13)
+------------------------------
+
+- updated location of workshop URL in doc/ms_ogc_workshop.ppt
+
+
+Version 1.0.4 (2006-09-08)
+------------------------------
+
+- updated for foss4g2006 conference
+
+Version 1.0.3 (2006-08-31)
+------------------------------
+
+- changed schema pointers from schemas.opengeospatial.net to schemas.opengis.net
+- changed GML version from 3.0.0 to 3.1.1 in data/mums.xsd
+- prepared for move to maptools.org
+
+Version 1.0.2 (2006-08-06)
+------------------------------
+
+- Added documentation for SOS
+- Added initial mapfile hooks for SOS
+- added and modified MapServer HOWTO links
+- added links for Mapscript OWS services
+- fixed projection codes 4236 to 4326
+
+
+Version 1.0.1 (2006-01-06)
+------------------------------
+
+- Fixed corrupt data/rivers files (not imported into CVS correctly)
+
+
+Version 1.0.0 (2005-12-29)
+------------------------------
+
+- Initial packaging as 1.0.0

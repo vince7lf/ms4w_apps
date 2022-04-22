@@ -32,9 +32,9 @@ MAP
       END
   END
   
-	PROJECTION
-		"init=epsg:4326"
-	END
+  PROJECTION
+    "init=epsg:4326"
+  END
 
   LAYER
       DEBUG ON
