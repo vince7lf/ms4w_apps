@@ -96,3 +96,38 @@ WMS 1.3.0 specifies that, depending on the particular CRS, the x axis may or may
 
 * easting (x or lon )
 * northing (y or lat)
+
+# Map server utilities
+
+## In Windows
+
+Open a command line from the installation folder of mapserver.
+
+Execute setenv.bat.
+
+```
+c:\ms4w>setenv.bat
+mapserv, GDAL, Python, PHP, and commandline MS4W tools path set
+```
+
+Execute mapserv -v to check the capabilities of mapserver.
+
+```
+c:\ms4w>mapserv.exe -v
+MapServer version 7.7.0-dev (MS4W 4.0.5) OUTPUT=PNG OUTPUT=JPEG OUTPUT=KML SUPPORTS=PROJ SUPPORTS=AGG SUPPORTS=FREETYPE SUPPORTS=CAIRO SUPPORTS=SVG_SYMBOLS SUPPORTS=SVGCAIRO SUPPORTS=ICONV SUPPORTS=FRIBIDI SUPPORTS=WMS_SERVER SUPPORTS=WMS_CLIENT SUPPORTS=WFS_SERVER SUPPORTS=WFS_CLIENT SUPPORTS=WCS_SERVER SUPPORTS=SOS_SERVER SUPPORTS=FASTCGI SUPPORTS=THREADS SUPPORTS=GEOS SUPPORTS=POINT_Z_M SUPPORTS=PBF INPUT=JPEG INPUT=POSTGIS INPUT=OGR INPUT=GDAL INPUT=SHAPEFILE
+```
+
+## test tre map file
+
+Source : <https://gis.stackexchange.com/questions/425277/qgis-3-24-and-3-18-cant-load-wfs-layer-from-mapserver-ms4w>
+
+Make sure that your data is showing properly with shp2img commandline utility 
+
+```
+c:\ms4w>shp2img -m c:\ms4w\apps\poc_aide_melcc\services\wfs\aide_wfs_service.map -o c:\ms4w\apps\poc_aide_melcc\services\wfs\aide_wfs_service.png -all_debug 3
+[Thu Apr 28 20:24:54 2022].964000: GDAL: In GDALDestroy - unloading GDAL shared library.
+```
+
+Once your data is appearing properly there, execute a GetCapabilities request, and examine the response. 
+
+Remove any 'warning' messages.

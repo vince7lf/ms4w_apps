@@ -1,4 +1,6 @@
-# Test WMS Capabilities http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
+# Test WMS Capabilities 
+# http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
+# http://127.0.0.1:8787/ms/wfs?map=/ms4w/apps/poc_aide_melcc/services/wfs/aide_wwfs_service.map&SERVICE=WFS&VERSION=1.1.1&REQUEST=GetCapabilities
 
 MAP
   # NAME "WMS_SERVICE_FOR_AIDE"
@@ -8,27 +10,48 @@ MAP
   CONFIG "PROJ_DEBUG" "ON"
   CONFIG "ON_MISSING_DATA" "LOG"
   DEBUG 50
+
+  NAME "WFS_server"
   STATUS ON
 
-  # IMAGETYPE gif
-  IMAGETYPE "JPEG"
-  # EXTENT 0 -882 880 0
-  EXTENT -140 40 -20 85
-  # SIZE 400 400
-  SIZE 256 256
+  SIZE 400 300
+  SYMBOLSET "./symbols/symbols.txt"
+  EXTENT -180 -90 180 90
+#   UNITS DD
   SHAPEPATH "./data"
   IMAGECOLOR 255 255 255
+  FONTSET "./fonts/fonts.txt"
 
   WEB
       IMAGEPATH "/ms4w/tmp/ms_tmp/"
       IMAGEURL "/ms_tmp/"
       METADATA
-          "wms_title" "WMS Service For AIDE"
-          # "wms_rootlayer_name" "WMS SERVICE FOR AIDE"
-          "wms_onlineresource" "http://127.0.0.1:8787/wms?"
-          "wms_srs" "EPSG:4326 EPSG:3857"
-          "ows_enable_request" "GetCapabilities GetMap GetFeatureInfo !GetLegendGraphic"
-          "wms_enable_request" "GetCapabilities GetMap GetFeatureInfo !GetLegendGraphic"
+          "wfs_title"          "WFS Demo Server for MapServer" ## REQUIRED
+          "wfs_onlineresource" "http://127.0.0.1:8787/ms/wfs?" ## Recommended
+          "wfs_srs"            "EPSG:4326 EPSG:4269 EPSG:3978 EPSG:3857" ## Recommended
+          "wfs_abstract"       "This text describes my WFS service." ## Recommended
+          "ows_enable_request" "*"
+          "wfs_enable_request" "*"  # necessary 
+          "ows_contactorganization"     "Vincent L.F."
+
+          "ows_keywordlist"                     ""              # removes warnings
+          "ows_fees"                            ""              # removes warnings
+          "ows_accessconstraints"               ""              # removes warnings
+          "ows_service_onlineresource"          ""              # removes warnings
+          "ows_contactperson"                   ""              # removes warnings
+          "ows_contactposition"                 ""              # removes warnings
+          "ows_contactvoicetelephone"           ""              # removes warnings
+          "ows_contactfacsimiletelephone"       ""              # removes warnings
+          "ows_address"                         ""              # removes warnings
+          "ows_city"                            ""              # removes warnings
+          "ows_stateorprovince"                 ""              # removes warnings
+          "ows_postcode"                        ""              # removes warnings
+          "ows_country"                         ""              # removes warnings
+          "ows_contactelectronicmailaddress"    ""              # removes warnings
+          "ows_hoursofservice"                  ""              # removes warnings
+          "ows_contactinstructions"             ""              # removes warnings
+          "ows_role"                            ""              # removes warnings
+
       END
   END
   
@@ -37,28 +60,60 @@ MAP
   END
 
   LAYER
-      DEBUG ON
+    DEBUG ON
 
-      NAME "province"
-      TYPE POLYGON
-      DATA "prov/province"
-      STATUS ON
-      METADATA
-          "wms_title" "province"
-          "wms_srs" "EPSG:4326"
+    NAME "continents"
+    TYPE POLYGON
+    STATUS ON
+    DATA 'countries_area/World_Continents'
+    METADATA
+      "wfs_title"         "World continents" ##REQUIRED
+      "wfs_srs"           "EPSG:4326" ## REQUIRED
+      "gml_include_items" "all" ## Optional (serves all attributes for layer)
+      "gml_featureid"     "FID" ## REQUIRED
+      "ows_enable_request" "*"
+      "wfs_enable_request" "*"
+    END
+    PROJECTION
+      "init=epsg:4326"
+    END
+    CLASS
+      NAME 'World Continents'
+      STYLE
+        COLOR 255 128 128
+        OUTLINECOLOR 96 96 96
       END
-      PROJECTION
-          "init=epsg:4326"
-      END
-      CLASSITEM "NAME"
-      CLASS
-          NAME "province"
-          EXPRESSION "Quebec"
-          STYLE
-              WIDTH 1
-              OUTLINECOLOR 0 0 0
-              COLOR 255 0 0
-          END
-      END
+    END
   END
+
+  LAYER
+    DEBUG ON
+
+    NAME "province"
+    TYPE POLYGON
+    DATA "prov/province"
+    STATUS ON
+    METADATA
+        "wfs_title" "province"
+        # "wfs_srs" "EPSG:4326"
+        "wfs_srs" "EPSG:4326 EPSG:1188"
+        "gml_include_items" "all" ## Optional (serves all attributes for layer)
+        "gml_featureid"     "CODE" ## REQUIRED
+        "ows_enable_request" "*"
+        "wfs_enable_request" "*"  # necessary 
+      END
+    PROJECTION
+        "init=epsg:4326"
+    END
+    CLASSITEM "NAME"
+    CLASS
+        NAME "province"
+        EXPRESSION "Quebec"
+        STYLE
+            WIDTH 1
+            OUTLINECOLOR 0 0 0
+            COLOR 255 0 0
+        END
+    END
+  END  
 END

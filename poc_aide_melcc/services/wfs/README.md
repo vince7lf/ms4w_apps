@@ -3,6 +3,7 @@
 ## Requête pour tester les capacités WMS du serveur
 
 <http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities>
+<http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wfs/aide_wfs_service.map&SERVICE=WFS&LAYERS=province&STYLES=&SRS=EPSG:4326&SERVICE=WFS&VERSION=2.0.0>
 
 ## Requête pour tester le GetMap  du service WMS
 
