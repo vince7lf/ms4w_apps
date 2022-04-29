@@ -18,6 +18,14 @@ git branch -M main
 git push -u origin main
 ```
 
+# set git username email credential
+git config --global user.name "Vincent Le Falher"
+git config --global user.email "vincent.lefalher@usherbrooke.ca"
+git config credential.https://github.com.username vince7lf
+git config --global credential.helper store
+git config --global -e
+git config -e
+
 # old git version (using master), new local repo, repo in github, main brancvh (vs master), sync both
 
 - create new repo in github
