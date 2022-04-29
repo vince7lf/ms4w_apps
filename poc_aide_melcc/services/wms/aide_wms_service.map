@@ -1,4 +1,30 @@
+# In a browser :
 # Test WMS Capabilities http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
+# http://127.0.0.1:8787/ms/wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
+
+# In QGIS :
+# add the URL http://127.0.0.1:8787/ms/wms?VERSION=1.1.1
+
+# In Apache : 
+#  <IfModule alias_module>
+# ...
+# Alias /ms "C:/ms4w/Apache/cgi-bin/mapserv.exe"
+# </IfModule>
+
+# <Location "/ms/wms">
+#    SetHandler cgi-script
+#    Options ExecCGI
+#     # Specific MapServer environment
+#     # refer to <https://www.mapserver.org/optimization/environment_variables.html#environment-variables>
+#     SetEnv MS_MAP_PATTERN "^(C:)?\/ms4w\/apps\/((?!\.{2})[_A-Za-z0-9\-\.]+\/{1})*([_A-Za-z0-9\-\.]+\.(map))$"
+#     SetEnv MS_MAP_NO_PATH "any_value_is_ok"
+#     SetEnv AIDE_WMS_MAP_SERVICE "/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map"
+#     SetEnv MS_MAPFILE "/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map"
+#     # do not set the MODE here as the test of the GetCapabilities will fail
+#     # SetEnv MS_MODE "map"
+#     SetEnv MS_ERRORFILE "C:/ms4w/tmp/ms_error.txt"
+#     SetEnv MS_DEBUGLEVEL 1
+# </Location>
 
 MAP
   # NAME "WMS_SERVICE_FOR_AIDE"

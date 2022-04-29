@@ -1,6 +1,34 @@
+# in browser: 
 # Test WMS Capabilities 
 # http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
-# http://127.0.0.1:8787/ms/wfs?map=/ms4w/apps/poc_aide_melcc/services/wfs/aide_wwfs_service.map&SERVICE=WFS&VERSION=1.1.1&REQUEST=GetCapabilities
+# http://127.0.0.1:8787/ms/wfs?map=/ms4w/apps/poc_aide_melcc/services/wfs/aide_wwfs_service.map&SERVICE=WFS&VERSION=1.1.0&REQUEST=GetCapabilities
+# http://127.0.0.1:8787/ms/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetCapabilities
+
+# In QGIS :
+# add the URL http://127.0.0.1:8787/ms/wfs?SRS=EPSG:4326&VERSION=2.0.0&COUNTS=100&OUTPUTFORMAT=text/xml; subtype%3Dgml/3.1.1&TYPENAME=continents,province
+# The OUTFORMAT is VERY important. Error occurs otherwise with a wrong TYPENAME=ms:province Not found
+# VERSION 2.0.0 is right
+
+# In Apache : 
+#  <IfModule alias_module>
+# ...
+# Alias /ms "C:/ms4w/Apache/cgi-bin/mapserv.exe"
+# </IfModule>
+
+# <Location "/ms/wfs">
+#    SetHandler cgi-script
+#    Options ExecCGI
+#     # Specific MapServer environment
+#     # refer to <https://www.mapserver.org/optimization/environment_variables.html#environment-variables>
+#     SetEnv MS_MAP_PATTERN "^(C:)?\/ms4w\/apps\/((?!\.{2})[_A-Za-z0-9\-\.]+\/{1})*([_A-Za-z0-9\-\.]+\.(map))$"
+#     SetEnv MS_MAP_NO_PATH "any_value_is_ok"
+#     SetEnv AIDE_WFS_MAP_SERVICE "/ms4w/apps/poc_aide_melcc/services/wfs/aide_wfs_service.map"
+#     SetEnv MS_MAPFILE "/ms4w/apps/poc_aide_melcc/services/wfs/aide_wfs_service.map"
+#     # do not set the MODE here as the test of the GetCapabilities will fail
+#     # SetEnv MS_MODE "map"
+#     SetEnv MS_ERRORFILE "C:/ms4w/tmp/ms_error.txt"
+#     SetEnv MS_DEBUGLEVEL 1
+# </Location>
 
 MAP
   # NAME "WMS_SERVICE_FOR_AIDE"
