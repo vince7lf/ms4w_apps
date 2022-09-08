@@ -5,7 +5,7 @@
 # http://127.0.0.1:8787/ms/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetCapabilities
 
 # In QGIS :
-# add the URL http://127.0.0.1:8787/ms/wfs?SRS=EPSG:4326&VERSION=2.0.0&COUNTS=100&OUTPUTFORMAT=text/xml; subtype%3Dgml/3.1.1&TYPENAME=continents,province
+# add the URL http://127.0.0.1:8787/ms/wfs?SRS=EPSG:4326&VERSION=2.0.0&COUNTS=100&OUTPUTFORMAT=text/xml;subtype%3Dgml/3.1.1&TYPENAME=continents,province
 # The OUTFORMAT is VERY important. Error occurs otherwise with a wrong TYPENAME=ms:province Not found
 # VERSION 2.0.0 is right
 
@@ -32,7 +32,7 @@
 
 MAP
   # NAME "WMS_SERVICE_FOR_AIDE"
-  CONFIG "MS_ERRORFILE" "/ms4w/tmp/ms_error.txt"
+  CONFIG "MS_ERRORFILE" "/var/log/mapserv/ms_error.txt"
   CONFIG "CPL_DEBUG" "ON"
   CONFIG "CPL_TIMESTAMP" "ON"
   CONFIG "PROJ_DEBUG" "ON"
@@ -51,7 +51,7 @@ MAP
   FONTSET "./fonts/fonts.txt"
 
   WEB
-      IMAGEPATH "/ms4w/tmp/ms_tmp/"
+      IMAGEPATH "/tmp/mapserv/"
       IMAGEURL "/ms_tmp/"
       METADATA
           "wfs_title"          "WFS Demo Server for MapServer" ## REQUIRED
