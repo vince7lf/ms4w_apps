@@ -28,12 +28,12 @@
 
 MAP
   # NAME "WMS_SERVICE_FOR_AIDE"
-  CONFIG "MS_ERRORFILE" "/ms4w/tmp/ms_error.txt"
+  CONFIG "MS_ERRORFILE" "/var/log/mapserv/ms_error.txt"
   CONFIG "CPL_DEBUG" "ON"
   CONFIG "CPL_TIMESTAMP" "ON"
   CONFIG "PROJ_DEBUG" "ON"
   CONFIG "ON_MISSING_DATA" "LOG"
-  DEBUG 50
+  DEBUG 3
   STATUS ON
 
   # IMAGETYPE gif
@@ -42,11 +42,11 @@ MAP
   EXTENT -140 40 -20 85
   # SIZE 400 400
   SIZE 256 256
-  SHAPEPATH "./data"
+  SHAPEPATH "data"
   IMAGECOLOR 255 255 255
 
   WEB
-      IMAGEPATH "/ms4w/tmp/ms_tmp/"
+      IMAGEPATH "/tmp/mapserv/"
       IMAGEURL "/ms_tmp/"
       METADATA
           "wms_title" "WMS Service For AIDE"
