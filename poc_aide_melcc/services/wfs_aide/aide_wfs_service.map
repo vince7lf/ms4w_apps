@@ -1,35 +1,3 @@
-# in browser: 
-# Test WMS Capabilities 
-# http://127.0.0.1:8787/cgi-bin/mapserv.exe?map=/ms4w/apps/poc_aide_melcc/services/wms/aide_wms_service.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities
-# http://127.0.0.1:8787/ms/wfs?map=/ms4w/apps/poc_aide_melcc/services/wfs/aide_wwfs_service.map&SERVICE=WFS&VERSION=1.1.0&REQUEST=GetCapabilities
-# http://127.0.0.1:8787/ms/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetCapabilities
-
-# In QGIS :
-# add the URL http://127.0.0.1:8787/ms/wfs?SRS=EPSG:4326&VERSION=2.0.0&COUNTS=100&OUTPUTFORMAT=text/xml; subtype%3Dgml/3.1.1&TYPENAME=continents,province
-# The OUTFORMAT is VERY important. Error occurs otherwise with a wrong TYPENAME=ms:province Not found
-# VERSION 2.0.0 is right
-
-# In Apache : 
-#  <IfModule alias_module>
-# ...
-# Alias /ms "C:/ms4w/Apache/cgi-bin/mapserv.exe"
-# </IfModule>
-
-# <Location "/ms/wfs">
-#    SetHandler cgi-script
-#    Options ExecCGI
-#     # Specific MapServer environment
-#     # refer to <https://www.mapserver.org/optimization/environment_variables.html#environment-variables>
-#     SetEnv MS_MAP_PATTERN "^(C:)?\/ms4w\/apps\/((?!\.{2})[_A-Za-z0-9\-\.]+\/{1})*([_A-Za-z0-9\-\.]+\.(map))$"
-#     SetEnv MS_MAP_NO_PATH "any_value_is_ok"
-#     SetEnv AIDE_WFS_MAP_SERVICE "/ms4w/apps/poc_aide_melcc/services/wfs/aide_wfs_service.map"
-#     SetEnv MS_MAPFILE "/ms4w/apps/poc_aide_melcc/services/wfs/aide_wfs_service.map"
-#     # do not set the MODE here as the test of the GetCapabilities will fail
-#     # SetEnv MS_MODE "map"
-#     SetEnv MS_ERRORFILE "C:/ms4w/tmp/ms_error.txt"
-#     SetEnv MS_DEBUGLEVEL 1
-# </Location>
-
 MAP
   # NAME "WMS_SERVICE_FOR_AIDE"
   CONFIG "MS_ERRORFILE" "/var/log/mapserv/ms_error.txt"
@@ -56,7 +24,7 @@ MAP
       IMAGEURL "/ms_tmp/"
       METADATA
           "wfs_title"          "WFS Demo Server for MapServer" ## REQUIRED
-          "wfs_onlineresource" "http://127.0.0.1:8787/ms/wfs_geojson?" ## Recommended
+          "wfs_onlineresource" "http://127.0.0.1:8787/ms/wfs_aide?" ## Recommended
           "wfs_srs"            "EPSG:4326 EPSG:4269 EPSG:3978 EPSG:3857" ## Recommended
           "wfs_abstract"       "This text describes my WFS service." ## Recommended
           "ows_enable_request" "*"
@@ -88,49 +56,6 @@ MAP
     "init=epsg:4326"
   END
 
-  # DEBUG with shp2img under Windows
-
-  # c:\ms4w> setenv.bat
-
-  # c:\ms4w>ogrinfo c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\data\photos_boucherville\presence_AIDE.geojson
-  # INFO: Open of `c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\data\photos_boucherville\presence_AIDE.geojson'
-  # using driver `GeoJSON' successful.
-  # 1: presence_AIDE (Point)
-
-  # c:\ms4w>ogrinfo c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\data\photos_boucherville\presence_AIDE.geojson presence_AIDE -summary
-  # INFO: Open of `c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\data\photos_boucherville\presence_AIDE.geojson'
-  #       using driver `GeoJSON' successful.
-
-  # Layer name: presence_AIDE
-  # Geometry: Point
-  # Feature Count: 82
-  # Extent: (-73.469041, 45.626145) - (-73.464742, 45.627092)
-  # Layer SRS WKT:
-  # GEOGCS["WGS 84",
-  #     DATUM["WGS_1984",
-  #         SPHEROID["WGS 84",6378137,298.257223563,
-  #             AUTHORITY["EPSG","7030"]],
-  #         AUTHORITY["EPSG","6326"]],
-  #     PRIMEM["Greenwich",0,
-  #         AUTHORITY["EPSG","8901"]],
-  #     UNIT["degree",0.0174532925199433,
-  #         AUTHORITY["EPSG","9122"]],
-  #     AUTHORITY["EPSG","4326"]]
-  # fid: Integer (0.0)
-  # photo: String (0.0)
-  # filename: String (0.0)
-  # directory: String (0.0)
-  # altitude: Real (0.0)
-  # direction: String (0.0)
-  # rotation: String (0.0)
-  # longitude: String (0.0)
-  # latitude: String (0.0)
-  # timestamp: DateTime (0.0)
-
-  # c:\ms4w>shp2img -m c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\aide_wfs_geojson_service.map ^
-  #   -o c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\aide_wfs_geojson_service.png ^
-  #   -all_debug 1 ^
-  #   -l boucherville
   LAYER
     DEBUG ON
 
@@ -139,8 +64,8 @@ MAP
     STATUS ON
 
     CONNECTIONTYPE OGR
-    CONNECTION "photos_boucherville/presence_AIDE.geojson"
-    DATA 'presence_AIDE' # layer name
+    CONNECTION "/app/images/debugJPG/1imageJPG/2018-Boucherville-13313005-13427550-1_tile/2018-Boucherville-13313005-13427550-1_tile.geojson"
+    DATA '2018-Boucherville-13313005-13427550-1_tile' # layer name
     # C:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\data\photos_boucherville\presence_AIDE.geojson
     METADATA
       "wfs_title"         "Presence AIDE Photos Boucherville 2019" ##REQUIRED
