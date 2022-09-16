@@ -11,1505 +11,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 55,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13232283-13462803_tile.jpg",
-                "filename": "2019-Boucherville-13232283-13462803_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46904144166668",
-                "latitude": "45.626146",
-                "timestamp": "2019-07-08T15:56:44"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46904144166668,
-                    45.626146,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 57,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13232283-13462881_tile.jpg",
-                "filename": "2019-Boucherville-13232283-13462881_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46904145555555",
-                "latitude": "45.62615372222222",
-                "timestamp": "2019-07-08T15:57:08"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46904145555555,
-                    45.62615372222222,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 58,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13232283-13462903_tile.jpg",
-                "filename": "2019-Boucherville-13232283-13462903_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.469027025",
-                "latitude": "45.626157166666665",
-                "timestamp": "2019-07-08T15:57:19"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.469027025,
-                    45.626157166666665,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 54,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13232283-13462781_tile.jpg",
-                "filename": "2019-Boucherville-13232283-13462781_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46902853888889",
-                "latitude": "45.626145111111114",
-                "timestamp": "2019-07-08T15:56:38"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46902853888889,
-                    45.626145111111114,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 50,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13231838-13464073_tile.jpg",
-                "filename": "2019-Boucherville-13231838-13464073_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 1.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46861458333333",
-                "latitude": "45.62618097222222",
-                "timestamp": "2019-07-08T12:22:41"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46861458333333,
-                    45.62618097222222,
-                    1.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 51,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13231838-13464088_tile.jpg",
-                "filename": "2019-Boucherville-13231838-13464088_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 1.7,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46859666666667",
-                "latitude": "45.62618008333333",
-                "timestamp": "2019-07-08T12:23:20"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46859666666667,
-                    45.62618008333333,
-                    1.7
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 47,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13231838-13463953_tile.jpg",
-                "filename": "2019-Boucherville-13231838-13463953_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 1.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46859535",
-                "latitude": "45.626164583333335",
-                "timestamp": "2019-07-08T12:21:26"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46859535,
-                    45.626164583333335,
-                    1.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 52,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13231838-13464104_tile.jpg",
-                "filename": "2019-Boucherville-13231838-13464104_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 1.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46858223888889",
-                "latitude": "45.62617786111111",
-                "timestamp": "2019-07-08T12:23:30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46858223888889,
-                    45.62617786111111,
-                    1.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 49,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13231838-13464020_tile.jpg",
-                "filename": "2019-Boucherville-13231838-13464020_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 1.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46858246111111",
-                "latitude": "45.62616641666667",
-                "timestamp": "2019-07-08T12:22:07"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46858246111111,
-                    45.62616641666667,
-                    1.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 48,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13231838-13463976_tile.jpg",
-                "filename": "2019-Boucherville-13231838-13463976_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 1.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46857980555556",
-                "latitude": "45.62615961111111",
-                "timestamp": "2019-07-08T12:21:44"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46857980555556,
-                    45.62615961111111,
-                    1.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 44,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463408_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463408_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.8,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46841401944445",
-                "latitude": "45.626253472222224",
-                "timestamp": "2019-07-05T09:11:56"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46841401944445,
-                    45.626253472222224,
-                    2.8
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 43,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463369_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463369_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.8,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46841284444444",
-                "latitude": "45.62624452777778",
-                "timestamp": "2019-07-05T09:11:40"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46841284444444,
-                    45.62624452777778,
-                    2.8
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 40,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463269_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463269_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.3,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46841179444445",
-                "latitude": "45.626237",
-                "timestamp": "2019-07-05T09:10:12"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46841179444445,
-                    45.626237,
-                    2.3
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 45,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463426_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463426_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.3,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46839748055555",
-                "latitude": "45.62625283333333",
-                "timestamp": "2019-07-05T09:12:10"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46839748055555,
-                    45.62625283333333,
-                    2.3
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 46,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463448_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463448_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.3,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46838727222223",
-                "latitude": "45.626254805555554",
-                "timestamp": "2019-07-05T09:12:22"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46838727222223,
-                    45.626254805555554,
-                    2.3
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 41,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463306_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463306_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46838727777778",
-                "latitude": "45.6262345",
-                "timestamp": "2019-07-05T09:10:40"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46838727777778,
-                    45.6262345,
-                    2.4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 42,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13230953-13463324_tile.jpg",
-                "filename": "2019-Boucherville-13230953-13463324_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.3,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46838866944445",
-                "latitude": "45.626244722222225",
-                "timestamp": "2019-07-05T09:10:53"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46838866944445,
-                    45.626244722222225,
-                    2.3
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 59,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463053_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463053_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46830142777777",
-                "latitude": "45.62669563888889",
-                "timestamp": "2019-07-08T14:31:31"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46830142777777,
-                    45.62669563888889,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 64,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463166_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463166_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46829750555555",
-                "latitude": "45.62670336111111",
-                "timestamp": "2019-07-08T14:32:47"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46829750555555,
-                    45.62670336111111,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 65,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463189_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463189_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46829800277779",
-                "latitude": "45.626710583333335",
-                "timestamp": "2019-07-08T14:33:13"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46829800277779,
-                    45.626710583333335,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 63,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463148_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463148_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46828732777777",
-                "latitude": "45.626703666666664",
-                "timestamp": "2019-07-08T14:32:39"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46828732777777,
-                    45.626703666666664,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 60,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463091_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463091_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.1,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46828699166667",
-                "latitude": "45.62669566666667",
-                "timestamp": "2019-07-08T14:31:45"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46828699166667,
-                    45.62669566666667,
-                    3.1
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 66,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463211_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463211_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46828423333334",
-                "latitude": "45.62670911111111",
-                "timestamp": "2019-07-08T14:33:28"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46828423333334,
-                    45.62670911111111,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 62,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463130_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463130_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46827522777778",
-                "latitude": "45.62670394444444",
-                "timestamp": "2019-07-08T14:32:29"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46827522777778,
-                    45.62670394444444,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 67,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463233_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463233_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46827086388889",
-                "latitude": "45.626708055555554",
-                "timestamp": "2019-07-08T14:33:35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46827086388889,
-                    45.626708055555554,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 61,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13310926-13463110_tile.jpg",
-                "filename": "2019-Boucherville-13310926-13463110_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.4682738",
-                "latitude": "45.626697472222226",
-                "timestamp": "2019-07-08T14:32:06"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.4682738,
-                    45.626697472222226,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 14,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226962-13426720_tile.jpg",
-                "filename": "2019-Boucherville-13226962-13426720_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46538733333334",
-                "latitude": "45.627082916666666",
-                "timestamp": "2019-07-10T11:13:48"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46538733333334,
-                    45.627082916666666,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 15,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226962-13426740_tile.jpg",
-                "filename": "2019-Boucherville-13226962-13426740_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46538491666666",
-                "latitude": "45.627092166666664",
-                "timestamp": "2019-07-10T11:13:57"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46538491666666,
-                    45.627092166666664,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 13,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226962-13426700_tile.jpg",
-                "filename": "2019-Boucherville-13226962-13426700_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.4653778888889",
-                "latitude": "45.62708380555556",
-                "timestamp": "2019-07-10T11:13:33"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.4653778888889,
-                    45.62708380555556,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 16,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226962-13426767_tile.jpg",
-                "filename": "2019-Boucherville-13226962-13426767_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46537230555556",
-                "latitude": "45.62709025",
-                "timestamp": "2019-07-10T11:14:06"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46537230555556,
-                    45.62709025,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 12,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226962-13426671_tile.jpg",
-                "filename": "2019-Boucherville-13226962-13426671_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46536486111111",
-                "latitude": "45.627083444444445",
-                "timestamp": "2019-07-10T11:13:24"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46536486111111,
-                    45.627083444444445,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 17,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226962-13426795_tile.jpg",
-                "filename": "2019-Boucherville-13226962-13426795_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46536044444444",
-                "latitude": "45.62708747222222",
-                "timestamp": "2019-07-10T11:14:17"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46536044444444,
-                    45.62708747222222,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 24,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413555_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413555_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46485672222222",
-                "latitude": "45.626716055555555",
-                "timestamp": "2019-07-10T13:59:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46485672222222,
-                    45.626716055555555,
-                    3.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 23,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413529_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413529_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46485308333334",
-                "latitude": "45.62670386111111",
-                "timestamp": "2019-07-10T13:58:46"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46485308333334,
-                    45.62670386111111,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 18,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413293_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413293_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46485294444444",
-                "latitude": "45.62669869444444",
-                "timestamp": "2019-07-10T13:58:07"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46485294444444,
-                    45.62669869444444,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 22,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413503_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413503_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46483980555556",
-                "latitude": "45.6267065",
-                "timestamp": "2019-07-10T13:58:37"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46483980555556,
-                    45.6267065,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 19,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413330_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413330_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46483908333333",
-                "latitude": "45.62669702777778",
-                "timestamp": "2019-07-10T13:58:15"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46483908333333,
-                    45.62669702777778,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 25,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413582_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413582_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46484241666667",
-                "latitude": "45.62671652777778",
-                "timestamp": "2019-07-10T13:59:09"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46484241666667,
-                    45.62671652777778,
-                    3.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 26,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413609_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413609_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46483052777778",
-                "latitude": "45.62671863888889",
-                "timestamp": "2019-07-10T13:59:17"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46483052777778,
-                    45.62671863888889,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 21,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413470_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413470_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46482888888889",
-                "latitude": "45.626703972222224",
-                "timestamp": "2019-07-10T13:58:30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46482888888889,
-                    45.626703972222224,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 20,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228355-13413362_tile.jpg",
-                "filename": "2019-Boucherville-13228355-13413362_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46482861111112",
-                "latitude": "45.62669552777778",
-                "timestamp": "2019-07-10T13:58:22"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46482861111112,
-                    45.62669552777778,
-                    3.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 30,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228844-13414282_tile.jpg",
-                "filename": "2019-Boucherville-13228844-13414282_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.4647591388889",
-                "latitude": "45.62658761111111",
-                "timestamp": "2019-07-10T15:08:18"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.4647591388889,
-                    45.62658761111111,
-                    3.4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 31,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228844-13414482_tile.jpg",
-                "filename": "2019-Boucherville-13228844-13414482_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46475619444445",
-                "latitude": "45.62659461111111",
-                "timestamp": "2019-07-10T15:08:33"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46475619444445,
-                    45.62659461111111,
-                    3.4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 29,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228844-13414258_tile.jpg",
-                "filename": "2019-Boucherville-13228844-13414258_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46474811111112",
-                "latitude": "45.62659108333333",
-                "timestamp": "2019-07-10T15:08:11"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46474811111112,
-                    45.62659108333333,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 27,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228844-13413947_tile.jpg",
-                "filename": "2019-Boucherville-13228844-13413947_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.2,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46474547222222",
-                "latitude": "45.62658116666667",
-                "timestamp": "2019-07-10T15:07:39"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46474547222222,
-                    45.62658116666667,
-                    3.2
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 32,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13228844-13414511_tile.jpg",
-                "filename": "2019-Boucherville-13228844-13414511_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46474191666667",
-                "latitude": "45.62659541666667",
-                "timestamp": "2019-07-10T15:08:48"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46474191666667,
-                    45.62659541666667,
-                    3.4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 76,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13314666-13413013_tile.jpg",
-                "filename": "2019-Boucherville-13314666-13413013_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 3.1,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46523486111111",
-                "latitude": "45.62658288888889",
-                "timestamp": "2019-07-10T12:50:32"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46523486111111,
-                    45.62658288888889,
-                    3.1
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 38,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434769_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434769_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46763930277778",
-                "latitude": "45.626315166666664",
-                "timestamp": "2019-07-10T19:47:10"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46763930277778,
-                    45.626315166666664,
-                    4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 33,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434270_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434270_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46764220277778",
-                "latitude": "45.62629811111111",
-                "timestamp": "2019-07-10T19:46:19"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46764220277778,
-                    45.62629811111111,
-                    4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 37,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434748_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434748_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46763997222223",
-                "latitude": "45.62630566666667",
-                "timestamp": "2019-07-10T19:47:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46763997222223,
-                    45.62630566666667,
-                    4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 36,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434721_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434721_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46763012222222",
-                "latitude": "45.626306944444444",
-                "timestamp": "2019-07-10T19:46:52"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46763012222222,
-                    45.626306944444444,
-                    4.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 39,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434792_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434792_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46762806666666",
-                "latitude": "45.626316833333334",
-                "timestamp": "2019-07-10T19:47:16"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46762806666666,
-                    45.626316833333334,
-                    4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 35,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434375_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434375_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46761647222222",
-                "latitude": "45.62630766666667",
-                "timestamp": "2019-07-10T19:46:46"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46761647222222,
-                    45.62630766666667,
-                    4.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 34,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13229812-13434351_tile.jpg",
-                "filename": "2019-Boucherville-13229812-13434351_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 4.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46761891944445",
-                "latitude": "45.626297638888886",
-                "timestamp": "2019-07-10T19:46:38"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46761891944445,
-                    45.626297638888886,
-                    4.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 68,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428234_tile.jpg",
-                "filename": "2019-Boucherville-13312057-13428234_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46740838055555",
-                "latitude": "45.62684188888889",
-                "timestamp": "2019-07-04T15:00:59"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46740838055555,
-                    45.62684188888889,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 72,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428377_tile.jpg",
-                "filename": "2019-Boucherville-13312057-13428377_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46740880833333",
-                "latitude": "45.62684413888889",
-                "timestamp": "2019-07-04T15:02:05"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46740880833333,
-                    45.62684413888889,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 73,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428404_tile.jpg",
-                "filename": "2019-Boucherville-13312057-13428404_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46740896944445",
-                "latitude": "45.62685177777778",
-                "timestamp": "2019-07-04T15:02:12"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46740896944445,
-                    45.62685177777778,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 71,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428356_tile.jpg",
-                "filename": "2019-Boucherville-13312057-13428356_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46739217777778",
-                "latitude": "45.62685088888889",
-                "timestamp": "2019-07-04T15:01:44"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46739217777778,
-                    45.62685088888889,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 69,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428263_tile.jpg",
-                "filename": "2019-Boucherville-13312057-13428263_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46739618055555",
-                "latitude": "45.626839583333336",
-                "timestamp": "2019-07-04T15:01:12"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46739618055555,
-                    45.626839583333336,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 70,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428332_tile.jpg",
-                "filename": "2019-Boucherville-13312057-13428332_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.9,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46738139166666",
-                "latitude": "45.62684983333333",
-                "timestamp": "2019-07-04T15:01:37"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46738139166666,
-                    45.62684983333333,
-                    2.9
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 11,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226091-13427830_tile.jpg",
-                "filename": "2019-Boucherville-13226091-13427830_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46672498916666",
-                "latitude": "45.626583583333336",
-                "timestamp": "2019-07-04T12:48:26"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46672498916666,
-                    45.626583583333336,
-                    2.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 10,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226091-13427791_tile.jpg",
-                "filename": "2019-Boucherville-13226091-13427791_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46672441416666",
-                "latitude": "45.626573416666666",
-                "timestamp": "2019-07-04T12:48:14"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46672441416666,
-                    45.626573416666666,
-                    2.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 9,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226091-13427763_tile.jpg",
-                "filename": "2019-Boucherville-13226091-13427763_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46671297083334",
-                "latitude": "45.62657411111111",
-                "timestamp": "2019-07-04T12:48:03"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46671297083334,
-                    45.62657411111111,
-                    2.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 8,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226091-13427732_tile.jpg",
-                "filename": "2019-Boucherville-13226091-13427732_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.6,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46670588472223",
-                "latitude": "45.62657469444444",
-                "timestamp": "2019-07-04T12:47:39"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46670588472223,
-                    45.62657469444444,
-                    2.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 7,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13226091-13427708_tile.jpg",
-                "filename": "2019-Boucherville-13226091-13427708_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.4,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46670297083334",
-                "latitude": "45.626567916666666",
-                "timestamp": "2019-07-04T12:47:22"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46670297083334,
-                    45.626567916666666,
-                    2.4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 1,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13225474-13410695_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13225474-13410695_tile.jpg",
                 "filename": "2019-Boucherville-13225474-13410695_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 2.4,
                 "direction": null,
                 "rotation": null,
@@ -1521,7 +25,7 @@
                 "type": "Point",
                 "coordinates": [
                     -73.46664,
-                    45.62617869444445,
+                    45.626178694444448,
                     2.4
                 ]
             }
@@ -1529,79 +33,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 3,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13225474-13411711_tile.jpg",
-                "filename": "2019-Boucherville-13225474-13411711_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46663797222223",
-                "latitude": "45.62618825",
-                "timestamp": "2019-07-09T15:34:42"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46663797222223,
-                    45.62618825,
-                    2.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 4,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13225474-13411740_tile.jpg",
-                "filename": "2019-Boucherville-13225474-13411740_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46663525",
-                "latitude": "45.626201361111114",
-                "timestamp": "2019-07-09T15:34:54"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46663525,
-                    45.626201361111114,
-                    2.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 5,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13225474-13411769_tile.jpg",
-                "filename": "2019-Boucherville-13225474-13411769_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
-                "altitude": 2.5,
-                "direction": null,
-                "rotation": null,
-                "longitude": "-73.46662311111112",
-                "latitude": "45.62620361111111",
-                "timestamp": "2019-07-09T15:35:06"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.46662311111112,
-                    45.62620361111111,
-                    2.5
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 2,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13225474-13411674_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13225474-13411674_tile.jpg",
                 "filename": "2019-Boucherville-13225474-13411674_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 2.4,
                 "direction": null,
                 "rotation": null,
@@ -1621,10 +55,75 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 6,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13225474-13411821_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13225474-13411711_tile.jpg",
+                "filename": "2019-Boucherville-13225474-13411711_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46663797222223",
+                "latitude": "45.62618825",
+                "timestamp": "2019-07-09T15:34:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46663797222223,
+                    45.62618825,
+                    2.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13225474-13411740_tile.jpg",
+                "filename": "2019-Boucherville-13225474-13411740_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46663525",
+                "latitude": "45.626201361111114",
+                "timestamp": "2019-07-09T15:34:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46663525,
+                    45.626201361111114,
+                    2.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13225474-13411769_tile.jpg",
+                "filename": "2019-Boucherville-13225474-13411769_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46662311111112",
+                "latitude": "45.62620361111111",
+                "timestamp": "2019-07-09T15:35:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.466623111111119,
+                    45.626203611111109,
+                    2.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13225474-13411821_tile.jpg",
                 "filename": "2019-Boucherville-13225474-13411821_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 2.5,
                 "direction": null,
                 "rotation": null,
@@ -1635,8 +134,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46661097222223,
-                    45.62620533333333,
+                    -73.466610972222227,
+                    45.626205333333331,
                     2.5
                 ]
             }
@@ -1644,10 +143,1483 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 74,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428426_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226091-13427708_tile.jpg",
+                "filename": "2019-Boucherville-13226091-13427708_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.4,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46670297083334",
+                "latitude": "45.626567916666666",
+                "timestamp": "2019-07-04T12:47:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.466702970833339,
+                    45.626567916666666,
+                    2.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226091-13427732_tile.jpg",
+                "filename": "2019-Boucherville-13226091-13427732_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46670588472223",
+                "latitude": "45.62657469444444",
+                "timestamp": "2019-07-04T12:47:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.466705884722231,
+                    45.626574694444443,
+                    2.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226091-13427763_tile.jpg",
+                "filename": "2019-Boucherville-13226091-13427763_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46671297083334",
+                "latitude": "45.62657411111111",
+                "timestamp": "2019-07-04T12:48:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.466712970833342,
+                    45.626574111111111,
+                    2.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226091-13427791_tile.jpg",
+                "filename": "2019-Boucherville-13226091-13427791_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46672441416666",
+                "latitude": "45.626573416666666",
+                "timestamp": "2019-07-04T12:48:14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.466724414166663,
+                    45.626573416666666,
+                    2.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226091-13427830_tile.jpg",
+                "filename": "2019-Boucherville-13226091-13427830_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46672498916666",
+                "latitude": "45.626583583333336",
+                "timestamp": "2019-07-04T12:48:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.466724989166664,
+                    45.626583583333336,
+                    2.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226962-13426671_tile.jpg",
+                "filename": "2019-Boucherville-13226962-13426671_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46536486111111",
+                "latitude": "45.627083444444445",
+                "timestamp": "2019-07-10T11:13:24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465364861111112,
+                    45.627083444444445,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226962-13426700_tile.jpg",
+                "filename": "2019-Boucherville-13226962-13426700_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.4653778888889",
+                "latitude": "45.62708380555556",
+                "timestamp": "2019-07-10T11:13:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465377888888895,
+                    45.627083805555557,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226962-13426720_tile.jpg",
+                "filename": "2019-Boucherville-13226962-13426720_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46538733333334",
+                "latitude": "45.627082916666666",
+                "timestamp": "2019-07-10T11:13:48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465387333333339,
+                    45.627082916666666,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226962-13426740_tile.jpg",
+                "filename": "2019-Boucherville-13226962-13426740_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46538491666666",
+                "latitude": "45.627092166666664",
+                "timestamp": "2019-07-10T11:13:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465384916666665,
+                    45.627092166666664,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226962-13426767_tile.jpg",
+                "filename": "2019-Boucherville-13226962-13426767_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46537230555556",
+                "latitude": "45.62709025",
+                "timestamp": "2019-07-10T11:14:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465372305555562,
+                    45.62709025,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13226962-13426795_tile.jpg",
+                "filename": "2019-Boucherville-13226962-13426795_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46536044444444",
+                "latitude": "45.62708747222222",
+                "timestamp": "2019-07-10T11:14:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465360444444443,
+                    45.627087472222222,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413293_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413293_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46485294444444",
+                "latitude": "45.62669869444444",
+                "timestamp": "2019-07-10T13:58:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464852944444445,
+                    45.626698694444443,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413330_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413330_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46483908333333",
+                "latitude": "45.62669702777778",
+                "timestamp": "2019-07-10T13:58:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464839083333331,
+                    45.62669702777778,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413362_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413362_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46482861111112",
+                "latitude": "45.62669552777778",
+                "timestamp": "2019-07-10T13:58:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464828611111116,
+                    45.626695527777777,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413470_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413470_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46482888888889",
+                "latitude": "45.626703972222224",
+                "timestamp": "2019-07-10T13:58:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464828888888889,
+                    45.626703972222224,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413503_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413503_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46483980555556",
+                "latitude": "45.6267065",
+                "timestamp": "2019-07-10T13:58:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464839805555556,
+                    45.6267065,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413529_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413529_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46485308333334",
+                "latitude": "45.62670386111111",
+                "timestamp": "2019-07-10T13:58:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464853083333338,
+                    45.62670386111111,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413555_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413555_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46485672222222",
+                "latitude": "45.626716055555555",
+                "timestamp": "2019-07-10T13:59:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464856722222223,
+                    45.626716055555555,
+                    3.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413582_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413582_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46484241666667",
+                "latitude": "45.62671652777778",
+                "timestamp": "2019-07-10T13:59:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46484241666667,
+                    45.626716527777781,
+                    3.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228355-13413609_tile.jpg",
+                "filename": "2019-Boucherville-13228355-13413609_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46483052777778",
+                "latitude": "45.62671863888889",
+                "timestamp": "2019-07-10T13:59:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464830527777778,
+                    45.626718638888889,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228844-13413947_tile.jpg",
+                "filename": "2019-Boucherville-13228844-13413947_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46474547222222",
+                "latitude": "45.62658116666667",
+                "timestamp": "2019-07-10T15:07:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464745472222219,
+                    45.626581166666668,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228844-13414127_tile.jpg",
+                "filename": "2019-Boucherville-13228844-13414127_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.4647313888889",
+                "latitude": "45.626581944444446",
+                "timestamp": "2019-07-10T15:07:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464731388888893,
+                    45.626581944444446,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228844-13414258_tile.jpg",
+                "filename": "2019-Boucherville-13228844-13414258_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46474811111112",
+                "latitude": "45.62659108333333",
+                "timestamp": "2019-07-10T15:08:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46474811111112,
+                    45.626591083333331,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228844-13414282_tile.jpg",
+                "filename": "2019-Boucherville-13228844-13414282_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.4,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.4647591388889",
+                "latitude": "45.62658761111111",
+                "timestamp": "2019-07-10T15:08:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464759138888894,
+                    45.626587611111113,
+                    3.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228844-13414482_tile.jpg",
+                "filename": "2019-Boucherville-13228844-13414482_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.4,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46475619444445",
+                "latitude": "45.62659461111111",
+                "timestamp": "2019-07-10T15:08:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464756194444448,
+                    45.626594611111109,
+                    3.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13228844-13414511_tile.jpg",
+                "filename": "2019-Boucherville-13228844-13414511_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.4,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46474191666667",
+                "latitude": "45.62659541666667",
+                "timestamp": "2019-07-10T15:08:48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.464741916666668,
+                    45.626595416666667,
+                    3.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434270_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434270_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.0,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46764220277778",
+                "latitude": "45.62629811111111",
+                "timestamp": "2019-07-10T19:46:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467642202777782,
+                    45.626298111111112,
+                    4.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434351_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434351_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46761891944445",
+                "latitude": "45.626297638888886",
+                "timestamp": "2019-07-10T19:46:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467618919444448,
+                    45.626297638888886,
+                    4.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434375_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434375_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46761647222222",
+                "latitude": "45.62630766666667",
+                "timestamp": "2019-07-10T19:46:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467616472222218,
+                    45.626307666666669,
+                    4.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434721_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434721_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46763012222222",
+                "latitude": "45.626306944444444",
+                "timestamp": "2019-07-10T19:46:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467630122222218,
+                    45.626306944444444,
+                    4.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434748_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434748_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.0,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46763997222223",
+                "latitude": "45.62630566666667",
+                "timestamp": "2019-07-10T19:47:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46763997222223,
+                    45.626305666666667,
+                    4.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434769_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434769_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.0,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46763930277778",
+                "latitude": "45.626315166666664",
+                "timestamp": "2019-07-10T19:47:10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467639302777783,
+                    45.626315166666664,
+                    4.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13229812-13434792_tile.jpg",
+                "filename": "2019-Boucherville-13229812-13434792_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 4.0,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46762806666666",
+                "latitude": "45.626316833333334",
+                "timestamp": "2019-07-10T19:47:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467628066666663,
+                    45.626316833333334,
+                    4.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463269_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463269_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.3,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46841179444445",
+                "latitude": "45.626237",
+                "timestamp": "2019-07-05T09:10:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468411794444449,
+                    45.626237,
+                    2.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463306_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463306_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.4,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46838727777778",
+                "latitude": "45.6262345",
+                "timestamp": "2019-07-05T09:10:40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468387277777779,
+                    45.6262345,
+                    2.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463324_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463324_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.3,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46838866944445",
+                "latitude": "45.626244722222225",
+                "timestamp": "2019-07-05T09:10:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468388669444451,
+                    45.626244722222225,
+                    2.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463369_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463369_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.8,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46841284444444",
+                "latitude": "45.62624452777778",
+                "timestamp": "2019-07-05T09:11:40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468412844444444,
+                    45.626244527777779,
+                    2.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463408_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463408_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.8,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46841401944445",
+                "latitude": "45.626253472222224",
+                "timestamp": "2019-07-05T09:11:56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468414019444452,
+                    45.626253472222224,
+                    2.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463426_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463426_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.3,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46839748055555",
+                "latitude": "45.62625283333333",
+                "timestamp": "2019-07-05T09:12:10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468397480555552,
+                    45.626252833333332,
+                    2.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13230953-13463448_tile.jpg",
+                "filename": "2019-Boucherville-13230953-13463448_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.3,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46838727222223",
+                "latitude": "45.626254805555554",
+                "timestamp": "2019-07-05T09:12:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46838727222223,
+                    45.626254805555554,
+                    2.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13231838-13463953_tile.jpg",
+                "filename": "2019-Boucherville-13231838-13463953_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 1.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46859535",
+                "latitude": "45.626164583333335",
+                "timestamp": "2019-07-08T12:21:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46859535,
+                    45.626164583333335,
+                    1.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13231838-13463976_tile.jpg",
+                "filename": "2019-Boucherville-13231838-13463976_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 1.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46857980555556",
+                "latitude": "45.62615961111111",
+                "timestamp": "2019-07-08T12:21:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468579805555564,
+                    45.626159611111113,
+                    1.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13231838-13464020_tile.jpg",
+                "filename": "2019-Boucherville-13231838-13464020_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 1.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46858246111111",
+                "latitude": "45.62616641666667",
+                "timestamp": "2019-07-08T12:22:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468582461111112,
+                    45.626166416666671,
+                    1.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13231838-13464073_tile.jpg",
+                "filename": "2019-Boucherville-13231838-13464073_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 1.5,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46861458333333",
+                "latitude": "45.62618097222222",
+                "timestamp": "2019-07-08T12:22:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468614583333334,
+                    45.626180972222222,
+                    1.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13231838-13464088_tile.jpg",
+                "filename": "2019-Boucherville-13231838-13464088_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 1.7,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46859666666667",
+                "latitude": "45.62618008333333",
+                "timestamp": "2019-07-08T12:23:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46859666666667,
+                    45.626180083333331,
+                    1.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13231838-13464104_tile.jpg",
+                "filename": "2019-Boucherville-13231838-13464104_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 1.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46858223888889",
+                "latitude": "45.62617786111111",
+                "timestamp": "2019-07-08T12:23:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468582238888885,
+                    45.62617786111111,
+                    1.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13232283-13462758_tile.jpg",
+                "filename": "2019-Boucherville-13232283-13462758_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46903025",
+                "latitude": "45.62613763888889",
+                "timestamp": "2019-07-08T15:56:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46903025,
+                    45.626137638888892,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13232283-13462781_tile.jpg",
+                "filename": "2019-Boucherville-13232283-13462781_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46902853888889",
+                "latitude": "45.626145111111114",
+                "timestamp": "2019-07-08T15:56:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.469028538888892,
+                    45.626145111111114,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13232283-13462803_tile.jpg",
+                "filename": "2019-Boucherville-13232283-13462803_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46904144166668",
+                "latitude": "45.626146",
+                "timestamp": "2019-07-08T15:56:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.469041441666675,
+                    45.626146,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13232283-13462821_tile.jpg",
+                "filename": "2019-Boucherville-13232283-13462821_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46905401111111",
+                "latitude": "45.626145944444445",
+                "timestamp": "2019-07-08T15:56:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.469054011111112,
+                    45.626145944444445,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13232283-13462881_tile.jpg",
+                "filename": "2019-Boucherville-13232283-13462881_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46904145555555",
+                "latitude": "45.62615372222222",
+                "timestamp": "2019-07-08T15:57:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.469041455555555,
+                    45.62615372222222,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13232283-13462903_tile.jpg",
+                "filename": "2019-Boucherville-13232283-13462903_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.469027025",
+                "latitude": "45.626157166666665",
+                "timestamp": "2019-07-08T15:57:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.469027025,
+                    45.626157166666665,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463053_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463053_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46830142777777",
+                "latitude": "45.62669563888889",
+                "timestamp": "2019-07-08T14:31:31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468301427777774,
+                    45.62669563888889,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463091_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463091_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.1,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46828699166667",
+                "latitude": "45.62669566666667",
+                "timestamp": "2019-07-08T14:31:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468286991666673,
+                    45.62669566666667,
+                    3.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463110_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463110_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.4682738",
+                "latitude": "45.626697472222226",
+                "timestamp": "2019-07-08T14:32:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4682738,
+                    45.626697472222226,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463130_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463130_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46827522777778",
+                "latitude": "45.62670394444444",
+                "timestamp": "2019-07-08T14:32:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468275227777781,
+                    45.626703944444444,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463148_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463148_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46828732777777",
+                "latitude": "45.626703666666664",
+                "timestamp": "2019-07-08T14:32:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468287327777773,
+                    45.626703666666664,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463166_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463166_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.2,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46829750555555",
+                "latitude": "45.62670336111111",
+                "timestamp": "2019-07-08T14:32:47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468297505555554,
+                    45.626703361111112,
+                    3.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463189_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463189_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46829800277779",
+                "latitude": "45.626710583333335",
+                "timestamp": "2019-07-08T14:33:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468298002777786,
+                    45.626710583333335,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463211_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463211_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46828423333334",
+                "latitude": "45.62670911111111",
+                "timestamp": "2019-07-08T14:33:28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.468284233333335,
+                    45.626709111111111,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13310926-13463233_tile.jpg",
+                "filename": "2019-Boucherville-13310926-13463233_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.6,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46827086388889",
+                "latitude": "45.626708055555554",
+                "timestamp": "2019-07-08T14:33:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.46827086388889,
+                    45.626708055555554,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428234_tile.jpg",
+                "filename": "2019-Boucherville-13312057-13428234_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46740838055555",
+                "latitude": "45.62684188888889",
+                "timestamp": "2019-07-04T15:00:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467408380555554,
+                    45.62684188888889,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428263_tile.jpg",
+                "filename": "2019-Boucherville-13312057-13428263_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46739618055555",
+                "latitude": "45.626839583333336",
+                "timestamp": "2019-07-04T15:01:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467396180555554,
+                    45.626839583333336,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428332_tile.jpg",
+                "filename": "2019-Boucherville-13312057-13428332_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46738139166666",
+                "latitude": "45.62684983333333",
+                "timestamp": "2019-07-04T15:01:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467381391666663,
+                    45.626849833333331,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428356_tile.jpg",
+                "filename": "2019-Boucherville-13312057-13428356_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46739217777778",
+                "latitude": "45.62685088888889",
+                "timestamp": "2019-07-04T15:01:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467392177777782,
+                    45.626850888888889,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428377_tile.jpg",
+                "filename": "2019-Boucherville-13312057-13428377_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46740880833333",
+                "latitude": "45.62684413888889",
+                "timestamp": "2019-07-04T15:02:05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467408808333332,
+                    45.626844138888892,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428404_tile.jpg",
+                "filename": "2019-Boucherville-13312057-13428404_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 2.9,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46740896944445",
+                "latitude": "45.62685177777778",
+                "timestamp": "2019-07-04T15:02:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.467408969444449,
+                    45.62685177777778,
+                    2.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428426_tile.jpg",
                 "filename": "2019-Boucherville-13312057-13428426_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 2.9,
                 "direction": null,
                 "rotation": null,
@@ -1659,7 +1631,7 @@
                 "type": "Point",
                 "coordinates": [
                     -73.46739493611112,
-                    45.62685394444444,
+                    45.626853944444441,
                     2.9
                 ]
             }
@@ -1667,10 +1639,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 75,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13312057-13428449_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13312057-13428449_tile.jpg",
                 "filename": "2019-Boucherville-13312057-13428449_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 2.9,
                 "direction": null,
                 "rotation": null,
@@ -1681,8 +1652,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46737941666667,
-                    45.62685308333334,
+                    -73.467379416666674,
+                    45.626853083333337,
                     2.9
                 ]
             }
@@ -1690,10 +1661,31 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 77,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572006_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13314666-13413013_tile.jpg",
+                "filename": "2019-Boucherville-13314666-13413013_tile",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
+                "altitude": 3.1,
+                "direction": null,
+                "rotation": null,
+                "longitude": "-73.46523486111111",
+                "latitude": "45.62658288888889",
+                "timestamp": "2019-07-10T12:50:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.465234861111114,
+                    45.62658288888889,
+                    3.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572006_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572006_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1704,7 +1696,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46699245555556,
+                    -73.466992455555555,
                     45.626519305555554,
                     3.7
                 ]
@@ -1713,10 +1705,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 78,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572063_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572063_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572063_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1727,8 +1718,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46697840555555,
-                    45.62651938888889,
+                    -73.466978405555551,
+                    45.626519388888887,
                     3.7
                 ]
             }
@@ -1736,10 +1727,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 79,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572097_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572097_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572097_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1750,8 +1740,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46696636111112,
-                    45.62652472222222,
+                    -73.466966361111119,
+                    45.626524722222221,
                     3.7
                 ]
             }
@@ -1759,10 +1749,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 80,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572132_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572132_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572132_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1774,7 +1763,7 @@
                 "type": "Point",
                 "coordinates": [
                     -73.46696485555556,
-                    45.62653547222222,
+                    45.626535472222223,
                     3.7
                 ]
             }
@@ -1782,10 +1771,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 81,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572203_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572203_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572203_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1805,10 +1793,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 82,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572334_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572334_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572334_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1819,7 +1806,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46699053055556,
+                    -73.466990530555563,
                     45.62653513888889,
                     3.7
                 ]
@@ -1828,10 +1815,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 83,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572379_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572379_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572379_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1843,7 +1829,7 @@
                 "type": "Point",
                 "coordinates": [
                     -73.46699045,
-                    45.62654288888889,
+                    45.626542888888892,
                     3.7
                 ]
             }
@@ -1851,10 +1837,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 84,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572426_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572426_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572426_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1874,10 +1859,9 @@
         {
             "type": "Feature",
             "properties": {
-                "fid": 85,
-                "photo": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE\\2019-Boucherville-13571792-13572450_tile.jpg",
+                "photo": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE\\2019-Boucherville-13571792-13572450_tile.jpg",
                 "filename": "2019-Boucherville-13571792-13572450_tile",
-                "directory": "C:\\Users\\vince\\Downloads\\AIDEMELCC\\dataset_Etienne_L\\presence_AIDE-20220428T230028Z-001\\presence_AIDE",
+                "directory": "C:\\Users\\User\\Downloads\\AIDE+MELCC\\presence_AIDE",
                 "altitude": 3.7,
                 "direction": null,
                 "rotation": null,
@@ -1888,8 +1872,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.46696266944444,
-                    45.62654052777778,
+                    -73.466962669444442,
+                    45.626540527777777,
                     3.7
                 ]
             }
