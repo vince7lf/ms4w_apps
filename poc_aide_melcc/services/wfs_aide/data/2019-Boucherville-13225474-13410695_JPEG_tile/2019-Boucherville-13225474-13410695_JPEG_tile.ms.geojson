@@ -1,0 +1,2939 @@
+{
+    "type": "FeatureCollection",
+    "name": "2019-Boucherville-13225474-13410695_JPEG_tile.ms",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626179
+                        ],
+                        [
+                            -73.466639,
+                            45.626179
+                        ],
+                        [
+                            -73.466639,
+                            45.626178
+                        ],
+                        [
+                            -73.46664,
+                            45.626178
+                        ],
+                        [
+                            -73.46664,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626179
+                        ],
+                        [
+                            -73.466637,
+                            45.626179
+                        ],
+                        [
+                            -73.466637,
+                            45.626178
+                        ],
+                        [
+                            -73.466639,
+                            45.626178
+                        ],
+                        [
+                            -73.466639,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626179
+                        ],
+                        [
+                            -73.466636,
+                            45.626179
+                        ],
+                        [
+                            -73.466636,
+                            45.626178
+                        ],
+                        [
+                            -73.466637,
+                            45.626178
+                        ],
+                        [
+                            -73.466637,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626179
+                        ],
+                        [
+                            -73.466635,
+                            45.626179
+                        ],
+                        [
+                            -73.466635,
+                            45.626178
+                        ],
+                        [
+                            -73.466636,
+                            45.626178
+                        ],
+                        [
+                            -73.466636,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626179
+                        ],
+                        [
+                            -73.466634,
+                            45.626179
+                        ],
+                        [
+                            -73.466634,
+                            45.626178
+                        ],
+                        [
+                            -73.466635,
+                            45.626178
+                        ],
+                        [
+                            -73.466635,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626179
+                        ],
+                        [
+                            -73.466632,
+                            45.626179
+                        ],
+                        [
+                            -73.466632,
+                            45.626178
+                        ],
+                        [
+                            -73.466634,
+                            45.626178
+                        ],
+                        [
+                            -73.466634,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626179
+                        ],
+                        [
+                            -73.466631,
+                            45.626179
+                        ],
+                        [
+                            -73.466631,
+                            45.626178
+                        ],
+                        [
+                            -73.466632,
+                            45.626178
+                        ],
+                        [
+                            -73.466632,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626179
+                        ],
+                        [
+                            -73.46663,
+                            45.626179
+                        ],
+                        [
+                            -73.46663,
+                            45.626178
+                        ],
+                        [
+                            -73.466631,
+                            45.626178
+                        ],
+                        [
+                            -73.466631,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_1_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626179
+                        ],
+                        [
+                            -73.466629,
+                            45.626179
+                        ],
+                        [
+                            -73.466629,
+                            45.626178
+                        ],
+                        [
+                            -73.46663,
+                            45.626178
+                        ],
+                        [
+                            -73.46663,
+                            45.626179
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626178
+                        ],
+                        [
+                            -73.466639,
+                            45.626178
+                        ],
+                        [
+                            -73.466639,
+                            45.626176
+                        ],
+                        [
+                            -73.46664,
+                            45.626176
+                        ],
+                        [
+                            -73.46664,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_2.jpg",
+                "annotations": [
+                    {
+                        "image_id": "c4ac4dc7-e3b8-404c-98d9-8e29e83c60d1",
+                        "annotation_id": "d5377310-241d-4e40-b75f-60ac49308145",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.328689-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_2.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_2.jpg"
+                    },
+                    {
+                        "image_id": "a3c6e6e0-bed8-4ad6-bb8e-60d18b9ded64",
+                        "annotation_id": "836561a2-5fcb-4bfd-ae44-d8c5ecc35176",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.310166-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_4.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_4.jpg"
+                    },
+                    {
+                        "image_id": "8975b0e1-39d1-4444-b7f8-6fca67bbddd5",
+                        "annotation_id": "4cab7292-515d-421d-a1d9-3627e6c16f2c",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.325027-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_5.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_5.jpg"
+                    },
+                    {
+                        "image_id": "97804c88-bcc9-49bc-a2ef-388f6cf8dfa0",
+                        "annotation_id": "2c136ada-ddd9-4de0-abd2-21d101edf696",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.328900-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_7.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_2_7.jpg"
+                    },
+                    {
+                        "image_id": "9e2b9861-aac6-4467-a823-9dcee77ac4ed",
+                        "annotation_id": "a936e9cf-e4f2-42c6-9704-6655e5eafac3",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.319014-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_3_2.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_3_2.jpg"
+                    },
+                    {
+                        "image_id": "8807a401-1ef8-4fc0-b396-6379de119062",
+                        "annotation_id": "2cef15f6-520b-48dd-9b5e-7e6ac779cfec",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.333705-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_3_5.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_3_5.jpg"
+                    },
+                    {
+                        "image_id": "29e317bc-43ec-4cdf-8b46-b33be618091f",
+                        "annotation_id": "075d6c37-897a-4206-99da-07dc61b4b733",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.307508-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_4_2.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_4_2.jpg"
+                    },
+                    {
+                        "image_id": "a6c6b7cc-f3fa-4906-8720-9022c62398ab",
+                        "annotation_id": "c880c549-a04f-477a-a917-d60c249127e5",
+                        "labelclass_id": "3c9517cc-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.322075-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_4_4.jpg",
+                        "labelclass_name": "Carex alopecoidea",
+                        "labelclass_index": "3",
+                        "vascan_id": "4734",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "carex alop\u00e9co\u00efde",
+                        "coleo_vernacular_en": "foxtail sedge",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_4_4.jpg"
+                    },
+                    {
+                        "image_id": "9412dfed-39ef-475c-ad0a-9b1b5e44c42e",
+                        "annotation_id": "da77429e-0975-42d6-9a4d-f6b244988182",
+                        "labelclass_id": "3c951bc8-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.317133-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_4_7.jpg",
+                        "labelclass_name": "Carex annectens",
+                        "labelclass_index": "4",
+                        "vascan_id": "4737",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "carex \u00e0 gaine tronqu\u00e9e",
+                        "coleo_vernacular_en": "yellow-fruited sedge",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_4_7.jpg"
+                    },
+                    {
+                        "image_id": "b666f618-568d-4cc9-9bc7-01ded5507ed1",
+                        "annotation_id": "cdaa76b4-6d0f-43aa-acb6-dea4a946b79a",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.333492-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_5_5.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_5_5.jpg"
+                    },
+                    {
+                        "image_id": "f1e7ea6a-c31d-4750-94d2-2f93ac5738f9",
+                        "annotation_id": "64880a4d-9204-4295-9cdb-c5dfed10f421",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.334963-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_6_2.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_6_2.jpg"
+                    },
+                    {
+                        "image_id": "3b559ff8-9012-4ec9-8c97-ea23afa9f03d",
+                        "annotation_id": "ca80de19-07a6-4df0-bb47-ff14150a6a32",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.321825-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_6_7.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_6_7.jpg"
+                    },
+                    {
+                        "image_id": "f52cb4d7-a81a-4ec8-9d13-ede2edc98b20",
+                        "annotation_id": "4c035c8e-3ba4-468e-a2d9-57c8a3500869",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.309136-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_7_5.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_7_5.jpg"
+                    },
+                    {
+                        "image_id": "bc16645e-3657-456e-9616-c5efa880a615",
+                        "annotation_id": "6219ca27-6526-4c76-a9aa-faddce6ea95c",
+                        "labelclass_id": "3c951448-44a8-11ed-ab52-75d2e298a4cb",
+                        "time_annotated": "2022-10-20 20:13:19.306247-04:00",
+                        "date_image_added": "2022-10-14 15:31:01.080501-04:00",
+                        "time_requested_image": "2022-10-20 19:52:47.668261-04:00",
+                        "image_path_filename": "1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_7_7.jpg",
+                        "labelclass_name": "\u00d7Duarctopoa labradorica",
+                        "labelclass_index": "1",
+                        "vascan_id": "8015",
+                        "bryoquel_id": "None",
+                        "coleo_vernacular_fr": "p\u00e2turin du Labrador",
+                        "coleo_vernacular_en": "Labrador bluegrass",
+                        "vascan_region": "Central",
+                        "vascan_province": "Qu\u00e9bec",
+                        "url": "http://0.0.0.0:8080/test-jpg-gps-1/files/1imageJPEG/2019-Boucherville-13225474-13410695_JPEG_tile/2019-Boucherville-13225474-13410695_JPEG_tile_7_7.jpg"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626178
+                        ],
+                        [
+                            -73.466637,
+                            45.626178
+                        ],
+                        [
+                            -73.466637,
+                            45.626176
+                        ],
+                        [
+                            -73.466639,
+                            45.626176
+                        ],
+                        [
+                            -73.466639,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626178
+                        ],
+                        [
+                            -73.466636,
+                            45.626178
+                        ],
+                        [
+                            -73.466636,
+                            45.626176
+                        ],
+                        [
+                            -73.466637,
+                            45.626176
+                        ],
+                        [
+                            -73.466637,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626178
+                        ],
+                        [
+                            -73.466635,
+                            45.626178
+                        ],
+                        [
+                            -73.466635,
+                            45.626176
+                        ],
+                        [
+                            -73.466636,
+                            45.626176
+                        ],
+                        [
+                            -73.466636,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626178
+                        ],
+                        [
+                            -73.466634,
+                            45.626178
+                        ],
+                        [
+                            -73.466634,
+                            45.626176
+                        ],
+                        [
+                            -73.466635,
+                            45.626176
+                        ],
+                        [
+                            -73.466635,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626178
+                        ],
+                        [
+                            -73.466632,
+                            45.626178
+                        ],
+                        [
+                            -73.466632,
+                            45.626176
+                        ],
+                        [
+                            -73.466634,
+                            45.626176
+                        ],
+                        [
+                            -73.466634,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626178
+                        ],
+                        [
+                            -73.466631,
+                            45.626178
+                        ],
+                        [
+                            -73.466631,
+                            45.626176
+                        ],
+                        [
+                            -73.466632,
+                            45.626176
+                        ],
+                        [
+                            -73.466632,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626178
+                        ],
+                        [
+                            -73.46663,
+                            45.626178
+                        ],
+                        [
+                            -73.46663,
+                            45.626176
+                        ],
+                        [
+                            -73.466631,
+                            45.626176
+                        ],
+                        [
+                            -73.466631,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_2_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626178
+                        ],
+                        [
+                            -73.466629,
+                            45.626178
+                        ],
+                        [
+                            -73.466629,
+                            45.626176
+                        ],
+                        [
+                            -73.46663,
+                            45.626176
+                        ],
+                        [
+                            -73.46663,
+                            45.626178
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626176
+                        ],
+                        [
+                            -73.466639,
+                            45.626176
+                        ],
+                        [
+                            -73.466639,
+                            45.626175
+                        ],
+                        [
+                            -73.46664,
+                            45.626175
+                        ],
+                        [
+                            -73.46664,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626176
+                        ],
+                        [
+                            -73.466637,
+                            45.626176
+                        ],
+                        [
+                            -73.466637,
+                            45.626175
+                        ],
+                        [
+                            -73.466639,
+                            45.626175
+                        ],
+                        [
+                            -73.466639,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626176
+                        ],
+                        [
+                            -73.466636,
+                            45.626176
+                        ],
+                        [
+                            -73.466636,
+                            45.626175
+                        ],
+                        [
+                            -73.466637,
+                            45.626175
+                        ],
+                        [
+                            -73.466637,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626176
+                        ],
+                        [
+                            -73.466635,
+                            45.626176
+                        ],
+                        [
+                            -73.466635,
+                            45.626175
+                        ],
+                        [
+                            -73.466636,
+                            45.626175
+                        ],
+                        [
+                            -73.466636,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626176
+                        ],
+                        [
+                            -73.466634,
+                            45.626176
+                        ],
+                        [
+                            -73.466634,
+                            45.626175
+                        ],
+                        [
+                            -73.466635,
+                            45.626175
+                        ],
+                        [
+                            -73.466635,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626176
+                        ],
+                        [
+                            -73.466632,
+                            45.626176
+                        ],
+                        [
+                            -73.466632,
+                            45.626175
+                        ],
+                        [
+                            -73.466634,
+                            45.626175
+                        ],
+                        [
+                            -73.466634,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626176
+                        ],
+                        [
+                            -73.466631,
+                            45.626176
+                        ],
+                        [
+                            -73.466631,
+                            45.626175
+                        ],
+                        [
+                            -73.466632,
+                            45.626175
+                        ],
+                        [
+                            -73.466632,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626176
+                        ],
+                        [
+                            -73.46663,
+                            45.626176
+                        ],
+                        [
+                            -73.46663,
+                            45.626175
+                        ],
+                        [
+                            -73.466631,
+                            45.626175
+                        ],
+                        [
+                            -73.466631,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_3_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626176
+                        ],
+                        [
+                            -73.466629,
+                            45.626176
+                        ],
+                        [
+                            -73.466629,
+                            45.626175
+                        ],
+                        [
+                            -73.46663,
+                            45.626175
+                        ],
+                        [
+                            -73.46663,
+                            45.626176
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626175
+                        ],
+                        [
+                            -73.466639,
+                            45.626175
+                        ],
+                        [
+                            -73.466639,
+                            45.626174
+                        ],
+                        [
+                            -73.46664,
+                            45.626174
+                        ],
+                        [
+                            -73.46664,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626175
+                        ],
+                        [
+                            -73.466637,
+                            45.626175
+                        ],
+                        [
+                            -73.466637,
+                            45.626174
+                        ],
+                        [
+                            -73.466639,
+                            45.626174
+                        ],
+                        [
+                            -73.466639,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626175
+                        ],
+                        [
+                            -73.466636,
+                            45.626175
+                        ],
+                        [
+                            -73.466636,
+                            45.626174
+                        ],
+                        [
+                            -73.466637,
+                            45.626174
+                        ],
+                        [
+                            -73.466637,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626175
+                        ],
+                        [
+                            -73.466635,
+                            45.626175
+                        ],
+                        [
+                            -73.466635,
+                            45.626174
+                        ],
+                        [
+                            -73.466636,
+                            45.626174
+                        ],
+                        [
+                            -73.466636,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626175
+                        ],
+                        [
+                            -73.466634,
+                            45.626175
+                        ],
+                        [
+                            -73.466634,
+                            45.626174
+                        ],
+                        [
+                            -73.466635,
+                            45.626174
+                        ],
+                        [
+                            -73.466635,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626175
+                        ],
+                        [
+                            -73.466632,
+                            45.626175
+                        ],
+                        [
+                            -73.466632,
+                            45.626174
+                        ],
+                        [
+                            -73.466634,
+                            45.626174
+                        ],
+                        [
+                            -73.466634,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626175
+                        ],
+                        [
+                            -73.466631,
+                            45.626175
+                        ],
+                        [
+                            -73.466631,
+                            45.626174
+                        ],
+                        [
+                            -73.466632,
+                            45.626174
+                        ],
+                        [
+                            -73.466632,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626175
+                        ],
+                        [
+                            -73.46663,
+                            45.626175
+                        ],
+                        [
+                            -73.46663,
+                            45.626174
+                        ],
+                        [
+                            -73.466631,
+                            45.626174
+                        ],
+                        [
+                            -73.466631,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_4_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626175
+                        ],
+                        [
+                            -73.466629,
+                            45.626175
+                        ],
+                        [
+                            -73.466629,
+                            45.626174
+                        ],
+                        [
+                            -73.46663,
+                            45.626174
+                        ],
+                        [
+                            -73.46663,
+                            45.626175
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626174
+                        ],
+                        [
+                            -73.466639,
+                            45.626174
+                        ],
+                        [
+                            -73.466639,
+                            45.626173
+                        ],
+                        [
+                            -73.46664,
+                            45.626173
+                        ],
+                        [
+                            -73.46664,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626174
+                        ],
+                        [
+                            -73.466637,
+                            45.626174
+                        ],
+                        [
+                            -73.466637,
+                            45.626173
+                        ],
+                        [
+                            -73.466639,
+                            45.626173
+                        ],
+                        [
+                            -73.466639,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626174
+                        ],
+                        [
+                            -73.466636,
+                            45.626174
+                        ],
+                        [
+                            -73.466636,
+                            45.626173
+                        ],
+                        [
+                            -73.466637,
+                            45.626173
+                        ],
+                        [
+                            -73.466637,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626174
+                        ],
+                        [
+                            -73.466635,
+                            45.626174
+                        ],
+                        [
+                            -73.466635,
+                            45.626173
+                        ],
+                        [
+                            -73.466636,
+                            45.626173
+                        ],
+                        [
+                            -73.466636,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626174
+                        ],
+                        [
+                            -73.466634,
+                            45.626174
+                        ],
+                        [
+                            -73.466634,
+                            45.626173
+                        ],
+                        [
+                            -73.466635,
+                            45.626173
+                        ],
+                        [
+                            -73.466635,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626174
+                        ],
+                        [
+                            -73.466632,
+                            45.626174
+                        ],
+                        [
+                            -73.466632,
+                            45.626173
+                        ],
+                        [
+                            -73.466634,
+                            45.626173
+                        ],
+                        [
+                            -73.466634,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626174
+                        ],
+                        [
+                            -73.466631,
+                            45.626174
+                        ],
+                        [
+                            -73.466631,
+                            45.626173
+                        ],
+                        [
+                            -73.466632,
+                            45.626173
+                        ],
+                        [
+                            -73.466632,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626174
+                        ],
+                        [
+                            -73.46663,
+                            45.626174
+                        ],
+                        [
+                            -73.46663,
+                            45.626173
+                        ],
+                        [
+                            -73.466631,
+                            45.626173
+                        ],
+                        [
+                            -73.466631,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_5_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626174
+                        ],
+                        [
+                            -73.466629,
+                            45.626174
+                        ],
+                        [
+                            -73.466629,
+                            45.626173
+                        ],
+                        [
+                            -73.46663,
+                            45.626173
+                        ],
+                        [
+                            -73.46663,
+                            45.626174
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626173
+                        ],
+                        [
+                            -73.466639,
+                            45.626173
+                        ],
+                        [
+                            -73.466639,
+                            45.626171
+                        ],
+                        [
+                            -73.46664,
+                            45.626171
+                        ],
+                        [
+                            -73.46664,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626173
+                        ],
+                        [
+                            -73.466637,
+                            45.626173
+                        ],
+                        [
+                            -73.466637,
+                            45.626171
+                        ],
+                        [
+                            -73.466639,
+                            45.626171
+                        ],
+                        [
+                            -73.466639,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626173
+                        ],
+                        [
+                            -73.466636,
+                            45.626173
+                        ],
+                        [
+                            -73.466636,
+                            45.626171
+                        ],
+                        [
+                            -73.466637,
+                            45.626171
+                        ],
+                        [
+                            -73.466637,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626173
+                        ],
+                        [
+                            -73.466635,
+                            45.626173
+                        ],
+                        [
+                            -73.466635,
+                            45.626171
+                        ],
+                        [
+                            -73.466636,
+                            45.626171
+                        ],
+                        [
+                            -73.466636,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626173
+                        ],
+                        [
+                            -73.466634,
+                            45.626173
+                        ],
+                        [
+                            -73.466634,
+                            45.626171
+                        ],
+                        [
+                            -73.466635,
+                            45.626171
+                        ],
+                        [
+                            -73.466635,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626173
+                        ],
+                        [
+                            -73.466632,
+                            45.626173
+                        ],
+                        [
+                            -73.466632,
+                            45.626171
+                        ],
+                        [
+                            -73.466634,
+                            45.626171
+                        ],
+                        [
+                            -73.466634,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626173
+                        ],
+                        [
+                            -73.466631,
+                            45.626173
+                        ],
+                        [
+                            -73.466631,
+                            45.626171
+                        ],
+                        [
+                            -73.466632,
+                            45.626171
+                        ],
+                        [
+                            -73.466632,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626173
+                        ],
+                        [
+                            -73.46663,
+                            45.626173
+                        ],
+                        [
+                            -73.46663,
+                            45.626171
+                        ],
+                        [
+                            -73.466631,
+                            45.626171
+                        ],
+                        [
+                            -73.466631,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_6_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626173
+                        ],
+                        [
+                            -73.466629,
+                            45.626173
+                        ],
+                        [
+                            -73.466629,
+                            45.626171
+                        ],
+                        [
+                            -73.46663,
+                            45.626171
+                        ],
+                        [
+                            -73.46663,
+                            45.626173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626171
+                        ],
+                        [
+                            -73.466639,
+                            45.626171
+                        ],
+                        [
+                            -73.466639,
+                            45.62617
+                        ],
+                        [
+                            -73.46664,
+                            45.62617
+                        ],
+                        [
+                            -73.46664,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626171
+                        ],
+                        [
+                            -73.466637,
+                            45.626171
+                        ],
+                        [
+                            -73.466637,
+                            45.62617
+                        ],
+                        [
+                            -73.466639,
+                            45.62617
+                        ],
+                        [
+                            -73.466639,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626171
+                        ],
+                        [
+                            -73.466636,
+                            45.626171
+                        ],
+                        [
+                            -73.466636,
+                            45.62617
+                        ],
+                        [
+                            -73.466637,
+                            45.62617
+                        ],
+                        [
+                            -73.466637,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626171
+                        ],
+                        [
+                            -73.466635,
+                            45.626171
+                        ],
+                        [
+                            -73.466635,
+                            45.62617
+                        ],
+                        [
+                            -73.466636,
+                            45.62617
+                        ],
+                        [
+                            -73.466636,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626171
+                        ],
+                        [
+                            -73.466634,
+                            45.626171
+                        ],
+                        [
+                            -73.466634,
+                            45.62617
+                        ],
+                        [
+                            -73.466635,
+                            45.62617
+                        ],
+                        [
+                            -73.466635,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626171
+                        ],
+                        [
+                            -73.466632,
+                            45.626171
+                        ],
+                        [
+                            -73.466632,
+                            45.62617
+                        ],
+                        [
+                            -73.466634,
+                            45.62617
+                        ],
+                        [
+                            -73.466634,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626171
+                        ],
+                        [
+                            -73.466631,
+                            45.626171
+                        ],
+                        [
+                            -73.466631,
+                            45.62617
+                        ],
+                        [
+                            -73.466632,
+                            45.62617
+                        ],
+                        [
+                            -73.466632,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626171
+                        ],
+                        [
+                            -73.46663,
+                            45.626171
+                        ],
+                        [
+                            -73.46663,
+                            45.62617
+                        ],
+                        [
+                            -73.466631,
+                            45.62617
+                        ],
+                        [
+                            -73.466631,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_7_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626171
+                        ],
+                        [
+                            -73.466629,
+                            45.626171
+                        ],
+                        [
+                            -73.466629,
+                            45.62617
+                        ],
+                        [
+                            -73.46663,
+                            45.62617
+                        ],
+                        [
+                            -73.46663,
+                            45.626171
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.62617
+                        ],
+                        [
+                            -73.466639,
+                            45.62617
+                        ],
+                        [
+                            -73.466639,
+                            45.626169
+                        ],
+                        [
+                            -73.46664,
+                            45.626169
+                        ],
+                        [
+                            -73.46664,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.62617
+                        ],
+                        [
+                            -73.466637,
+                            45.62617
+                        ],
+                        [
+                            -73.466637,
+                            45.626169
+                        ],
+                        [
+                            -73.466639,
+                            45.626169
+                        ],
+                        [
+                            -73.466639,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.62617
+                        ],
+                        [
+                            -73.466636,
+                            45.62617
+                        ],
+                        [
+                            -73.466636,
+                            45.626169
+                        ],
+                        [
+                            -73.466637,
+                            45.626169
+                        ],
+                        [
+                            -73.466637,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.62617
+                        ],
+                        [
+                            -73.466635,
+                            45.62617
+                        ],
+                        [
+                            -73.466635,
+                            45.626169
+                        ],
+                        [
+                            -73.466636,
+                            45.626169
+                        ],
+                        [
+                            -73.466636,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.62617
+                        ],
+                        [
+                            -73.466634,
+                            45.62617
+                        ],
+                        [
+                            -73.466634,
+                            45.626169
+                        ],
+                        [
+                            -73.466635,
+                            45.626169
+                        ],
+                        [
+                            -73.466635,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.62617
+                        ],
+                        [
+                            -73.466632,
+                            45.62617
+                        ],
+                        [
+                            -73.466632,
+                            45.626169
+                        ],
+                        [
+                            -73.466634,
+                            45.626169
+                        ],
+                        [
+                            -73.466634,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.62617
+                        ],
+                        [
+                            -73.466631,
+                            45.62617
+                        ],
+                        [
+                            -73.466631,
+                            45.626169
+                        ],
+                        [
+                            -73.466632,
+                            45.626169
+                        ],
+                        [
+                            -73.466632,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.62617
+                        ],
+                        [
+                            -73.46663,
+                            45.62617
+                        ],
+                        [
+                            -73.46663,
+                            45.626169
+                        ],
+                        [
+                            -73.466631,
+                            45.626169
+                        ],
+                        [
+                            -73.466631,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_8_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.62617
+                        ],
+                        [
+                            -73.466629,
+                            45.62617
+                        ],
+                        [
+                            -73.466629,
+                            45.626169
+                        ],
+                        [
+                            -73.46663,
+                            45.626169
+                        ],
+                        [
+                            -73.46663,
+                            45.62617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46664,
+                            45.626169
+                        ],
+                        [
+                            -73.466639,
+                            45.626169
+                        ],
+                        [
+                            -73.466639,
+                            45.626168
+                        ],
+                        [
+                            -73.46664,
+                            45.626168
+                        ],
+                        [
+                            -73.46664,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_2.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466639,
+                            45.626169
+                        ],
+                        [
+                            -73.466637,
+                            45.626169
+                        ],
+                        [
+                            -73.466637,
+                            45.626168
+                        ],
+                        [
+                            -73.466639,
+                            45.626168
+                        ],
+                        [
+                            -73.466639,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_3.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466637,
+                            45.626169
+                        ],
+                        [
+                            -73.466636,
+                            45.626169
+                        ],
+                        [
+                            -73.466636,
+                            45.626168
+                        ],
+                        [
+                            -73.466637,
+                            45.626168
+                        ],
+                        [
+                            -73.466637,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_4.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466636,
+                            45.626169
+                        ],
+                        [
+                            -73.466635,
+                            45.626169
+                        ],
+                        [
+                            -73.466635,
+                            45.626168
+                        ],
+                        [
+                            -73.466636,
+                            45.626168
+                        ],
+                        [
+                            -73.466636,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_5.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466635,
+                            45.626169
+                        ],
+                        [
+                            -73.466634,
+                            45.626169
+                        ],
+                        [
+                            -73.466634,
+                            45.626168
+                        ],
+                        [
+                            -73.466635,
+                            45.626168
+                        ],
+                        [
+                            -73.466635,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_6.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466634,
+                            45.626169
+                        ],
+                        [
+                            -73.466632,
+                            45.626169
+                        ],
+                        [
+                            -73.466632,
+                            45.626168
+                        ],
+                        [
+                            -73.466634,
+                            45.626168
+                        ],
+                        [
+                            -73.466634,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_7.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466632,
+                            45.626169
+                        ],
+                        [
+                            -73.466631,
+                            45.626169
+                        ],
+                        [
+                            -73.466631,
+                            45.626168
+                        ],
+                        [
+                            -73.466632,
+                            45.626168
+                        ],
+                        [
+                            -73.466632,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_8.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.466631,
+                            45.626169
+                        ],
+                        [
+                            -73.46663,
+                            45.626169
+                        ],
+                        [
+                            -73.46663,
+                            45.626168
+                        ],
+                        [
+                            -73.466631,
+                            45.626168
+                        ],
+                        [
+                            -73.466631,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "2019-Boucherville-13225474-13410695_JPEG_tile_9_9.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.46663,
+                            45.626169
+                        ],
+                        [
+                            -73.466629,
+                            45.626169
+                        ],
+                        [
+                            -73.466629,
+                            45.626168
+                        ],
+                        [
+                            -73.46663,
+                            45.626168
+                        ],
+                        [
+                            -73.46663,
+                            45.626169
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
