@@ -52,11 +52,11 @@ MAP
   FONTSET "./fonts/fonts.txt"
 
   WEB
-      IMAGEPATH "/tmp/mapserv/"
+      IMAGEPATH "/app/mapserv/"
       IMAGEURL "/ms_tmp/"
       METADATA
           "wfs_title"          "WFS Demo Server for MapServer" ## REQUIRED
-          "wfs_onlineresource" "http://127.0.0.1:8787/ms/wfs_geojson?" ## Recommended
+          "wfs_onlineresource" "http://127.0.0.1:8888/ms/wfs_geojson?" ## Recommended
           "wfs_srs"            "EPSG:4326 EPSG:4269 EPSG:3978 EPSG:3857" ## Recommended
           "wfs_abstract"       "This text describes my WFS service." ## Recommended
           "ows_enable_request" "*"
@@ -131,6 +131,15 @@ MAP
   #   -o c:\ms4w\apps\poc_aide_melcc\services\wfs-geojson\aide_wfs_geojson_service.png ^
   #   -all_debug 1 ^
   #   -l boucherville
+shp2img -m /home/vince/ms4w_apps/poc_aide_melcc/services/wfs-geojson/aide_wfs_geojson_service_disabled.map \
+  -o /home/vince/ms4w_apps/poc_aide_melcc/services/wfs-geojson/aide_wfs_geojson_service_disabled.png \
+  -all_debug 1 \
+  -l boucherville
+
+  # in a browser do not forget the mode=map and LAYER attribue, or you will have the error/message display in the browser : 
+  # mapserv(): Web application error. Traditional BROWSE mode requires a TEMPLATE in the WEB section, but none was provided.
+  # http://127.0.0.1:8888/ms/wfs_geojson?SRS=EPSG:4326&VERSION=2.0.0&COUNTS=100&OUTPUTFORMAT=text/xml;%20subtype%3Dgml/3.1.1&TYPENAME=continents,province&mode=map&LAYER=boucherville
+
   LAYER
     DEBUG ON
 

@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../../app/images"
+		},
+		{
+			"path": "../../../app/mapserv"
 		}
 	],
 	"settings": {}

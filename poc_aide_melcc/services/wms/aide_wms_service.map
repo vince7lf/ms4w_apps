@@ -46,7 +46,7 @@ MAP
   IMAGECOLOR 255 255 255
 
   WEB
-      IMAGEPATH "/tmp/mapserv/"
+      IMAGEPATH "/app/mapserv/"
       IMAGEURL "/ms_tmp/"
       METADATA
           "wms_title" "WMS Service For AIDE"

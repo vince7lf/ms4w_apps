@@ -50,7 +50,7 @@ MAP
   FONTSET "./fonts/fonts.txt"
 
   WEB
-      IMAGEPATH "/tmp/mapserv/"
+      IMAGEPATH "/app/mapserv/"
       IMAGEURL "/ms_tmp/"
       METADATA
           "wfs_title"          "WFS Demo Server for MapServer" ## REQUIRED
